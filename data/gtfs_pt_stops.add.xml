@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-07-08 23:27:11.059397 by gtfs2pt.py UNKNOWN
+<configuration>
+    <gtfs value="Cuenca2022-20220317.zip"/>
+    <date value="20231218"/>
+    <modes value="bus"/>
+    <vtype-output value="pt_vtypes.xml"/>
+    <network value="osm.net.xml"/>
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.0" lane="-336161700#8_0" startPos="39.67" endPos="52.67" friendlyPos="true" name="CIUDADELA KENNEDY"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.1" lane="-336161700#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CUARTEL CALDERON"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.2" lane="-405315550#2_0" startPos="4.85" endPos="17.85" friendlyPos="true" name="CAZADORES DE LOS RIOS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.3" lane="42453891#1_0" startPos="54.05" endPos="67.05" friendlyPos="true" name="HORMIAZUAY"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.4" lane="1163706644_0" startPos="15.71" endPos="28.71" friendlyPos="true" name="URBANIZACION TERRANOVA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.5" lane="1163706644_0" startPos="337.97" endPos="350.97" friendlyPos="true" name="URBANIZACION INGENIEROS CIVILES"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.6" lane="1163706644_0" startPos="554.60" endPos="567.60" friendlyPos="true" name="COMPLEJO BANCO CENTRAL"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.7" lane="1163706644_0" startPos="773.71" endPos="786.71" friendlyPos="true" name="PUENTE AV. DE LAS AMERICAS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.8" lane="35906223#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BOMBA DE LOS EUCALIPTOS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.9" lane="425648249#1_0" startPos="10.30" endPos="23.30" friendlyPos="true" name="CIUDADELA EUCALIPTOS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.10" lane="425648249#2_0" startPos="127.07" endPos="140.07" friendlyPos="true" name="CIUDADELA RIVERAS DEL TOMEBAMBA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.11" lane="425648249#4_0" startPos="194.47" endPos="207.47" friendlyPos="true" name="CURTIEMBRE"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.12" lane="425648249#4_0" startPos="643.47" endPos="656.47" friendlyPos="true" name="LOS ANDES"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.13" lane="416719148#4_0" startPos="5.42" endPos="18.42" friendlyPos="true" name="ALTIPLANO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.14" lane="416719148#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COMPLEJO DEPORTIVO TOTORACOCHA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.15" lane="-47198328#7_0" startPos="24.41" endPos="37.41" friendlyPos="true" name="AV. LOS ANDES Y BUERAN"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.16" lane="-47198328#0_0" startPos="8.01" endPos="21.01" friendlyPos="true" name="AV. LOS ANDES Y HURTADO DE MENDOZA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.17" lane="301162960#13_0" startPos="105.53" endPos="118.53" friendlyPos="true" name="ANTISANA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.18" lane="301162960#20_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CORDILLERA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.19" lane="301162960#26_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PASEO DE LOS CANARIS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.20" lane="403894673#1_0" startPos="22.16" endPos="35.16" friendlyPos="true" name="PARQUE TOSI"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.21" lane="895265101#1_0" startPos="3.42" endPos="16.42" friendlyPos="true" name="RIO UPANO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.22" lane="48552361#1_0" startPos="14.49" endPos="27.49" friendlyPos="true" name="GUAPONDELIG"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.23" lane="972644144#0_0" startPos="13.86" endPos="26.86" friendlyPos="true" name="TERMINAL"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.24" lane="972644144#4_0" startPos="27.51" endPos="40.51" friendlyPos="true" name="AV. ESPANA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.25" lane="399285450#1_0" startPos="7.51" endPos="20.51" friendlyPos="true" name="VEGA MUNOZ Y MANUEL VEGA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.26" lane="399285450#5_0" startPos="75.83" endPos="88.83" friendlyPos="true" name="9 DE OCTUBRE"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.27" lane="35287032#3_0" startPos="17.42" endPos="30.42" friendlyPos="true" name="LUIS CORDERO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.28" lane="35287032#7_0" startPos="21.02" endPos="34.02" friendlyPos="true" name="MARIA AUXILIADORA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.29" lane="35287032#10_0" startPos="15.40" endPos="28.40" friendlyPos="true" name="ESCUELA 3 DE NOVIEMBRE"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.30" lane="406261768#4_0" startPos="19.04" endPos="32.04" friendlyPos="true" name="MERCADO 3 DE NOVIEMBRE"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.31" lane="49222370#1_0" startPos="60.53" endPos="73.53" friendlyPos="true" name="SAN SEBASTIAN"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.32" lane="42456620#0_0" startPos="21.22" endPos="34.22" friendlyPos="true" name="SAN SEBASTIAN"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.33" lane="42456620#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MIGUEL HEREDIA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.34" lane="397464990#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO SAGRADOS CORAZONES"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.35" lane="42456625#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. 12 DE ABRIL E IMBABURA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.36" lane="250129559#2_0" startPos="58.45" endPos="71.45" friendlyPos="true" name="COLISEO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.37" lane="-305048625#0_0" startPos="29.44" endPos="42.44" friendlyPos="true" name="EDWIN SACOTO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.38" lane="-45429554#0_0" startPos="15.39" endPos="28.39" friendlyPos="true" name="REMIGIO CRESPO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.39" lane="65089046#1_0" startPos="32.79" endPos="45.79" friendlyPos="true" name="FERIA LIBRE"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.40" lane="952365290#3_0" startPos="14.12" endPos="27.12" friendlyPos="true" name="AV. CARLOS ARIZAGA VEGA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.41" lane="606417690#2_0" startPos="40.06" endPos="53.06" friendlyPos="true" name="PASAJE NICANOR CORDOVA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.42" lane="48143278#1_0" startPos="2.88" endPos="15.88" friendlyPos="true" name="REDONDEL CRISTO DEL CONSUELO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.43" lane="-61429486#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESTADIO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.44" lane="-61429489#2_0" startPos="72.57" endPos="85.57" friendlyPos="true" name="VICTOR MANUEL ALBORNOZ"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.45" lane="48144962#3_0" startPos="13.39" endPos="26.39" friendlyPos="true" name="COLEGIO CIUDAD DE CUENCA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.46" lane="40668068#12_0" startPos="25.91" endPos="38.91" friendlyPos="true" name="IGLESIA VIRGEN DEL MILAGRO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.47" lane="143471358#1_0" startPos="5.87" endPos="18.87" friendlyPos="true" name="CIUDADELA LOS HORNOS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.48" lane="143471358#5_0" startPos="0.92" endPos="13.92" friendlyPos="true" name="ENTRADA SAN JOSE DE BALZAY"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.49" lane="143471358#12_0" startPos="18.59" endPos="31.59" friendlyPos="true" name="PUENTE DE BALZAY"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.50" lane="478516334#4_0" startPos="10.21" endPos="23.21" friendlyPos="true" name="ENTRADA CIUDADELA LA CAMPINA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.51" lane="405152444_0" startPos="292.22" endPos="305.22" friendlyPos="true" name="RIO AMARILLO"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.52" lane="405152445#1_0" startPos="73.38" endPos="86.38" friendlyPos="true" name="ENTRADA A SAN MIGUEL"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.53" lane="480936945#6_0" startPos="1.45" endPos="14.45" friendlyPos="true" name="BOMBA DE SANTA MARIA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.54" lane="403422501#8_0" startPos="34.70" endPos="47.70" friendlyPos="true" name="SECTOR SANTA MARIA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.55" lane="403422501#15_0" startPos="0.74" endPos="13.74" friendlyPos="true" name="ESCUELA JESUS VASQUEZ OCHOA"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.56" lane="644589569_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="5 ESQUINAS"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.57" lane="644589569_0" startPos="161.07" endPos="174.07" friendlyPos="true" name="ENTRADA A BUENOS AIRES"/>
+    <busStop id="17a49046-eaf0-4f43-956f-8460227a7628.58" lane="403422502#3_0" startPos="299.61" endPos="312.61" friendlyPos="true" name="SECTOR LAS CABANAS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.0" lane="-64716896#1_0" startPos="70.95" endPos="83.95" friendlyPos="true" name="SECTOR LAS CABANAS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.1" lane="-403422502#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A BUENOS AIRES"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.2" lane="552464440_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA COLEGIO JAVERIANO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.3" lane="-403422501#15_0" startPos="217.73" endPos="230.73" friendlyPos="true" name="ESCUELA JESUS VASQUEZ OCHOA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.4" lane="-403422501#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SECTOR SANTA MARIA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.5" lane="-480936945#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A SAN MIGUEL"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.6" lane="533782994_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="IGLESIA SAN MARTIN"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.7" lane="480936952_0" startPos="5.39" endPos="18.39" friendlyPos="true" name="RIO AMARILLO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.8" lane="480936948#1_0" startPos="21.25" endPos="34.25" friendlyPos="true" name="ENTRADA CDLA. LA CAMPINA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.9" lane="480936948#2_0" startPos="204.33" endPos="217.33" friendlyPos="true" name="BALZAY BAJO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.10" lane="1053082142_0" startPos="50.91" endPos="63.91" friendlyPos="true" name="PUENTE DE BALZAY"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.11" lane="478516329#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A SAN JOSE DE BALZAY"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.12" lane="478516329#6_0" startPos="38.08" endPos="51.08" friendlyPos="true" name="CIUDADELA LOS HORNOS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.13" lane="480936970#0_0" startPos="37.61" endPos="50.61" friendlyPos="true" name="IGLESIA VIRGEN DEL MILAGRO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.14" lane="-48144962#3_0" startPos="7.56" endPos="20.56" friendlyPos="true" name="COLEGIO CUIDAD DE CUENCA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.15" lane="61429491_0" startPos="21.51" endPos="34.51" friendlyPos="true" name="PUERTAS DEL SOL"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.16" lane="61429486#2_0" startPos="50.54" endPos="63.54" friendlyPos="true" name="ESTADIO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.17" lane="-314641202#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GENERAL ESCANDON"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.18" lane="-897190043#2_0" startPos="6.32" endPos="19.32" friendlyPos="true" name="FERIA LIBRE"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.19" lane="47198320#4_0" startPos="23.42" endPos="36.42" friendlyPos="true" name="EL BATAN Y AV. DE LAS AMERICAS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.20" lane="305048625#0_0" startPos="61.44" endPos="74.44" friendlyPos="true" name="CALLE DEL BATAN"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.21" lane="250129556_0" startPos="3.00" endPos="16.00" friendlyPos="true" name="COLISEO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.22" lane="247049840#2_0" startPos="47.11" endPos="60.11" friendlyPos="true" name="AV. 12 DE ABRIL E IMBABURA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.23" lane="311431489#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO SAGRADOS CORAZONES"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.24" lane="40668089#1_0" startPos="11.04" endPos="24.04" friendlyPos="true" name="MIGUEL HEREDIA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.25" lane="399278565_0" startPos="65.19" endPos="78.19" friendlyPos="true" name="SIMON BOLIVAR Y MIGUEL VELEZ"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.26" lane="400051328#1_0" startPos="65.30" endPos="78.30" friendlyPos="true" name="LAMAR"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.27" lane="406261770#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GASPAR SANGURIMA Y MIGUEL VELEZ"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.28" lane="406261770#5_0" startPos="56.33" endPos="69.33" friendlyPos="true" name="SANGURIMA Y TARQUI"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.29" lane="49217126#1_0" startPos="16.00" endPos="29.00" friendlyPos="true" name="MARIANITAS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.30" lane="403869582#1_0" startPos="52.21" endPos="65.21" friendlyPos="true" name="LUIS CORDERO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.31" lane="39525772#8_0" startPos="67.41" endPos="80.41" friendlyPos="true" name="9 DE OCTUBRE"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.32" lane="492443599#1_0" startPos="32.26" endPos="45.26" friendlyPos="true" name="CHOLA CUENCANA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.33" lane="45421576#2_0" startPos="80.47" endPos="93.47" friendlyPos="true" name="HURTADO DE MENDOZA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.34" lane="645041668#1_0" startPos="34.83" endPos="47.83" friendlyPos="true" name="CEMENTERIO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.35" lane="-48552361#1_0" startPos="13.67" endPos="26.67" friendlyPos="true" name="GUAPONDELIG"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.36" lane="-403894673#2_0" startPos="8.49" endPos="21.49" friendlyPos="true" name="COLEGIO HERLINDA TORAL"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.37" lane="-301162960#26_0" startPos="5.96" endPos="18.96" friendlyPos="true" name="PASEO DE LOS CANARIS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.38" lane="-301162960#17_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SARAURCO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.39" lane="-301162960#13_0" startPos="69.95" endPos="82.95" friendlyPos="true" name="ANTISANA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.40" lane="47198328#0_0" startPos="20.72" endPos="33.72" friendlyPos="true" name="AV. LOS ANDES Y HURTADO DE MENDOZA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.41" lane="47198328#7_0" startPos="20.12" endPos="33.12" friendlyPos="true" name="AV. LOS ANDES Y BUERAN"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.42" lane="428036160#2_0" startPos="2.38" endPos="15.38" friendlyPos="true" name="COMPLEJO DEPORTIVO TOTORACOCHA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.43" lane="428036160#6_0" startPos="9.81" endPos="22.81" friendlyPos="true" name="ESCUELA ABELARDO J. CRESPO"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.44" lane="300587960#0_0" startPos="134.25" endPos="147.25" friendlyPos="true" name="URBANIZACION RIO SOL"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.45" lane="300587960#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CURTIEMBRE"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.46" lane="300587960#4_0" startPos="4.99" endPos="17.99" friendlyPos="true" name="CIUDADELA RIVERAS DEL TOMEBAMBA"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.47" lane="300587960#8_0" startPos="10.35" endPos="23.35" friendlyPos="true" name="CIUDADELA EUCALIPTOS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.48" lane="542382472_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BOMBA DE LOS EUCALIPTOS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.49" lane="1266773298_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CIUDADELA INGENIEROS CIVILES"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.50" lane="42453895#4_0" startPos="24.98" endPos="37.98" friendlyPos="true" name="COMPLEJO BANCO CENTRAL"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.51" lane="42453895#6_0" startPos="81.66" endPos="94.66" friendlyPos="true" name="URBANIZACION VALLE DE LOS RIOS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.52" lane="49211234#0_0" startPos="43.16" endPos="56.16" friendlyPos="true" name="REDONDEL PANAMERICANA NORTE"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.53" lane="42453893_0" startPos="45.31" endPos="58.31" friendlyPos="true" name="HORMIAZUAY"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.54" lane="336161700#0_0" startPos="0.67" endPos="13.67" friendlyPos="true" name="ESCUELA CAZADORES DE LOS RIOS"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.55" lane="336161700#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CUARTEL CALDERON"/>
+    <busStop id="654d4e9e-0830-4f83-933c-845d271d62bc.56" lane="336161700#8_0" startPos="22.14" endPos="35.14" friendlyPos="true" name="CIUDADELA KENNEDY"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.0" lane="559195754#0_0" startPos="0.28" endPos="13.28" friendlyPos="true" name="PARQUE INDUSTRIAL"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.1" lane="301926474#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GASOLINERA SINDICATO DE CHOFERES"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.2" lane="74346319#1_0" startPos="163.65" endPos="176.65" friendlyPos="true" name="PARQUE JACARANDA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.3" lane="876405817_0" startPos="34.63" endPos="47.63" friendlyPos="true" name="PARQUE JACARANDA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.4" lane="74346256#3_0" startPos="49.64" endPos="62.64" friendlyPos="true" name="EMBOTELLADORA AZUAYA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.5" lane="62203345_0" startPos="44.71" endPos="57.71" friendlyPos="true" name="AV. ESPANA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.6" lane="48552362#1_0" startPos="21.11" endPos="34.11" friendlyPos="true" name="AEROPUERTO"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.7" lane="48552362#8_0" startPos="6.10" endPos="19.10" friendlyPos="true" name="IECE"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.8" lane="301146580#1_0" startPos="81.43" endPos="94.43" friendlyPos="true" name="TERMINAL TERRESTRE"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.9" lane="542434369#1_0" startPos="150.56" endPos="163.56" friendlyPos="true" name="NUNEZ DE BONILLA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.10" lane="48202930_0" startPos="72.35" endPos="85.35" friendlyPos="true" name="CHOLA CUENCANA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.11" lane="389741417#1_0" startPos="31.74" endPos="44.74" friendlyPos="true" name="SAN BLAS"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.12" lane="48202922_0" startPos="66.15" endPos="79.15" friendlyPos="true" name="ESCUELA TERESA VALSE"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.13" lane="60204530#0_0" startPos="7.05" endPos="20.05" friendlyPos="true" name="BANCO CENTRAL"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.14" lane="48100787_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="EL VERGEL"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.15" lane="-329243314#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. 12 DE ABRIL"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.16" lane="-402178665_0" startPos="292.90" endPos="305.90" friendlyPos="true" name="CLINICA SANTA ANA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.17" lane="334948974#0_0" startPos="92.05" endPos="105.05" friendlyPos="true" name="PARQUE DE LA MADRE"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.18" lane="542402347#1_0" startPos="2.30" endPos="15.30" friendlyPos="true" name="PUENTE DEL CENTENARIO"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.19" lane="542402344#1_0" startPos="21.92" endPos="34.92" friendlyPos="true" name="UNIVERSIDAD DE CUENCA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.20" lane="542395217#0_0" startPos="42.93" endPos="55.93" friendlyPos="true" name="PUENTE DEL VADO"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.21" lane="48149035_0" startPos="126.90" endPos="139.90" friendlyPos="true" name="EL BATAN"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.27" lane="532135452_0" startPos="17.75" endPos="30.75" friendlyPos="true" name="CREA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.28" lane="389763220#1_0" startPos="9.26" endPos="22.26" friendlyPos="true" name="PARQUE EL DRAGON"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.29" lane="605357314#1_0" startPos="71.62" endPos="84.62" friendlyPos="true" name="ANETA"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.30" lane="116672828#1_0" startPos="7.59" endPos="20.59" friendlyPos="true" name="MEDIO EJIDO"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.31" lane="552464448#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AGIP GAS"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.32" lane="552464448#3_0" startPos="4.49" endPos="17.49" friendlyPos="true" name="RESTAURANTE EL EJIDO"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.33" lane="552464448#6_0" startPos="126.61" endPos="139.61" friendlyPos="true" name="FABRICA DE ESTUCOS"/>
+    <busStop id="3122b916-7166-40b8-8361-34d17e4f3629.34" lane="274816536#1_0" startPos="4.62" endPos="17.62" friendlyPos="true" name="ENTRADA A MISICATA"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.1" lane="542542859_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="FABRICA DE ESTUCOS">
+        <access friendlyPos="true" lane="-242293617#2_0" pos="15.25" length="63.99"/>
+        <access friendlyPos="true" lane="-605087255#0_0" pos="32.12" length="26.95"/>
+        <access friendlyPos="true" lane="-605087255#1_0" pos="86.53" length="78.42"/>
+        <access friendlyPos="true" lane="242293617#2_0" pos="47.95" length="59.19"/>
+        <access friendlyPos="true" lane="282993246_0" pos="7.92" length="80.45"/>
+        <access friendlyPos="true" lane="542542855_1" pos="0.00" length="44.74"/>
+        <access friendlyPos="true" lane="542542856_0" pos="166.99" length="40.30"/>
+        <access friendlyPos="true" lane="542542861#1_1" pos="130.98" length="23.09"/>
+        <access friendlyPos="true" lane="605087255#0_0" pos="0.00" length="31.72"/>
+        <access friendlyPos="true" lane="605087255#1_0" pos="0.00" length="80.11"/>
+    </busStop>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.2" lane="542542869_0" startPos="47.40" endPos="60.40" friendlyPos="true" name="PARQUE INFANTIL"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.3" lane="478841481#0_0" startPos="14.94" endPos="27.94" friendlyPos="true" name="PRIMERA DE MAYO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.4" lane="346345428_0" startPos="44.73" endPos="57.73" friendlyPos="true" name="PUENTE YANUNCAY"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.5" lane="529883376#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARQUE EL DRAGON"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.6" lane="416621432#0_0" startPos="18.10" endPos="31.10" friendlyPos="true" name="CREA"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.7" lane="402801839#0_0" startPos="7.71" endPos="20.71" friendlyPos="true" name="FERIA LIBRE"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.11" lane="311431487_0" startPos="18.73" endPos="31.73" friendlyPos="true" name="REDONDEL DEL OTORONGO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.12" lane="740080580#3_0" startPos="30.36" endPos="43.36" friendlyPos="true" name="CIUDADELA LOS ARUPOS"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.13" lane="311431488_0" startPos="1.43" endPos="14.43" friendlyPos="true" name="PUENTE DEL VADO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.14" lane="42143919_0" startPos="24.65" endPos="37.65" friendlyPos="true" name="MERCADO 10 DE AGOSTO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.15" lane="42143918#1_0" startPos="79.55" endPos="92.55" friendlyPos="true" name="JUAN JARAMILLO Y BENIGNO MALO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.16" lane="42143918#5_0" startPos="23.14" endPos="36.14" friendlyPos="true" name="JUAN JARAMILLO Y BORRERO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.17" lane="42143918#9_0" startPos="21.64" endPos="34.64" friendlyPos="true" name="VARGAS MACHUCA Y JUAN JARAMILLO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.18" lane="42201279#4_0" startPos="0.96" endPos="13.96" friendlyPos="true" name="PARQUE VICTOR J. CUESTA"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.19" lane="552646975#0_0" startPos="66.99" endPos="79.99" friendlyPos="true" name="SALESIANAS"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.20" lane="552646975#3_0" startPos="70.64" endPos="83.64" friendlyPos="true" name="LA ROTARY"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.22" lane="430870741#3_0" startPos="52.37" endPos="65.37" friendlyPos="true" name="TERMINAL TERRESTRE"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.23" lane="605352725#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="IECE"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.24" lane="605352725#9_0" startPos="39.34" endPos="52.34" friendlyPos="true" name="AEROPUERTO"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.25" lane="542417208#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV.GIL RAMIREZ DAVALOS"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.26" lane="542434378#0_0" startPos="7.05" endPos="20.05" friendlyPos="true" name="EMBOTELLADORA AZUAYA"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.27" lane="542434378#4_0" startPos="22.18" endPos="35.18" friendlyPos="true" name="GASOLINERA"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.28" lane="876405819#0_0" startPos="20.39" endPos="33.39" friendlyPos="true" name="PARQUE JACARANDA">
+        <access friendlyPos="true" lane="-1180125914_0" pos="29.64" length="93.41"/>
+        <access friendlyPos="true" lane="-86143893#0_0" pos="22.86" length="57.50"/>
+        <access friendlyPos="true" lane="1180125914_0" pos="0.00" length="97.82"/>
+        <access friendlyPos="true" lane="542421942#1_0" pos="36.86" length="88.93"/>
+        <access friendlyPos="true" lane="542435219_0" pos="75.55" length="60.48"/>
+        <access friendlyPos="true" lane="74346319#1_2" pos="219.69" length="39.01"/>
+        <access friendlyPos="true" lane="74346319#2_2" pos="0.00" length="38.88"/>
+        <access friendlyPos="true" lane="86143893#0_0" pos="0.00" length="55.64"/>
+        <access friendlyPos="true" lane="876405817_1" pos="0.00" length="76.73"/>
+        <access friendlyPos="true" lane="876405820_2" pos="0.00" length="92.85"/>
+    </busStop>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.29" lane="-82899240#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="Calle de los X Juegos Bolivarianos &amp; del Torril"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.30" lane="-82899240#0_0" startPos="99.49" endPos="112.48" friendlyPos="true" name="PLATERIA NARVAEZ"/>
+    <busStop id="81c05d8d-2035-417c-8c53-e7f1c86c09ca.31" lane="50365112#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CARTOPEL"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.0" lane="-91011057#5_0" startPos="26.88" endPos="39.88" friendlyPos="true" name="VIA A GULLANZHAPA(1)"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.1" lane="405513787#1_0" startPos="19.78" endPos="32.78" friendlyPos="true" name="COLEGIO TURI"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.2" lane="897098494#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUEBLO DE TURI"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.3" lane="534903533#1_0" startPos="341.01" endPos="354.01" friendlyPos="true" name="GALERIA VEGA"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.4" lane="534903533#3_0" startPos="125.99" endPos="138.99" friendlyPos="true" name="AUTOPISTA Y REDONDEL TURI"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.5" lane="42201260#0-AddedOffRampEdge_0" startPos="66.74" endPos="79.74" friendlyPos="true" name="REDONDEL DE TURI"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.6" lane="61380534_0" startPos="8.80" endPos="21.80" friendlyPos="true" name="MALL DEL RIO"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.7" lane="61380529_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO TECNICO SALESIANO"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.8" lane="-338566780#3_0" startPos="9.60" endPos="22.60" friendlyPos="true" name="COLEGIO TECNICO SALESIANO"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.9" lane="-311652835#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PABLO PICASSO"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.10" lane="-304102914_0" startPos="48.60" endPos="61.60" friendlyPos="true" name="TRES PUENTES"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.11" lane="523917861#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO BILINGUE"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.12" lane="895065309_0" startPos="16.32" endPos="29.32" friendlyPos="true" name="COLEGIO LA SALLE"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.13" lane="40972462_0" startPos="18.68" endPos="31.68" friendlyPos="true" name="REDONDEL DEL ESTADIO"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.14" lane="48859314#6_0" startPos="10.23" endPos="23.23" friendlyPos="true" name="BANCO DEL PICHINCHA"/>
+    <busStop id="9d06f2e7-b8c6-43a7-8377-c3d4b5464292.15" lane="40972481#1_0" startPos="34.19" endPos="47.19" friendlyPos="true" name="CENTENARIO"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.1" lane="552619451#1_0" startPos="41.96" endPos="54.96" friendlyPos="true" name="REDONDEL DEL ESTADIO"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.2" lane="895021244_0" startPos="46.05" endPos="59.05" friendlyPos="true" name="VIRGEN DE BRONCE"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.3" lane="45429565#2_0" startPos="104.50" endPos="117.50" friendlyPos="true" name="COLEGIO BILINGUE"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.4" lane="42803250_0" startPos="12.40" endPos="25.40" friendlyPos="true" name="AV. 24 DE MAYO"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.5" lane="333014846#0_0" startPos="13.08" endPos="26.08" friendlyPos="true" name="MP3"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.6" lane="-403675123#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESCALINATA"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.7" lane="-534903533#3_0" startPos="158.76" endPos="171.76" friendlyPos="true" name="GALERIA VEGA"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.8" lane="-534903533#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUEBLO DE TURI"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.9" lane="-897098494#2_0" startPos="11.54" endPos="24.54" friendlyPos="true" name="COLEGIO TURI"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.10" lane="-405513787#1_0" startPos="32.44" endPos="45.44" friendlyPos="true" name="VIA A GULLANZHAPA(1)"/>
+    <busStop id="b4f6db5d-cadf-4194-8aac-85b48c36b0f3.11" lane="91011057#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LA QUEBRADA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.0" lane="-547635360#1_0" startPos="47.33" endPos="60.33" friendlyPos="true" name="SECTOR CEMENTERIO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.1" lane="-82878647_0" startPos="98.74" endPos="111.74" friendlyPos="true" name="PLAZA DE BANOS"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.2" lane="-47643022#2_0" startPos="16.85" endPos="29.85" friendlyPos="true" name="CUATRO ESQUINAS"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.3" lane="-534903520#5_0" startPos="89.23" endPos="102.23" friendlyPos="true" name="BALNEARIOS MERCHAN"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.4" lane="-304749443#6_0" startPos="15.27" endPos="28.27" friendlyPos="true" name="HOSTERIA DURAN"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.5" lane="-304749443#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO MANUEL CORDOVA GALARZA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.6" lane="-304749443#3_0" startPos="40.53" endPos="53.53" friendlyPos="true" name="CANCHAS PLANETA FUTBOL"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.7" lane="-548299501#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BARRIO LA UNION"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.8" lane="-304749277#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BARRIO SANTA TERESITA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.9" lane="-304749277#1_0" startPos="9.17" endPos="22.17" friendlyPos="true" name="ESCUELA BORJA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.10" lane="544580387#4_0" startPos="35.98" endPos="48.98" friendlyPos="true" name="COLEGIO BORJA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.11" lane="544580387#7_0" startPos="30.57" endPos="43.57" friendlyPos="true" name="RIO MAGDALENA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.12" lane="544580387#9_0" startPos="5.18" endPos="18.18" friendlyPos="true" name="CENTRO SALUD YANUNCAY"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.13" lane="544580387#12_0" startPos="70.17" endPos="83.17" friendlyPos="true" name="JOSE MEJIA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.14" lane="544580387#14_0" startPos="11.48" endPos="24.48" friendlyPos="true" name="RICARDO DURAN Y PEDRO VICENTE MALDONADO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.15" lane="48914847_0" startPos="45.83" endPos="58.83" friendlyPos="true" name="AV. LOJA Y AV. DE LAS AMERICAS"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.16" lane="208769656#4_0" startPos="16.82" endPos="29.82" friendlyPos="true" name="AV.LOJA Y ALONZO PINZON"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.17" lane="208769656#5_0" startPos="75.73" endPos="88.73" friendlyPos="true" name="AV. LOJA Y PEDRO DE ALVARADO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.18" lane="304931613#3_0" startPos="54.78" endPos="67.78" friendlyPos="true" name="AV. LOJA Y PUERTO DE PALOS"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.19" lane="304931613#15_0" startPos="13.46" endPos="26.44" friendlyPos="true" name="DIARIO EL TIEMPO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.20" lane="48914848#0_0" startPos="5.11" endPos="18.11" friendlyPos="true" name="AV. LOJA Y DON BOSCO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.21" lane="48914848#7_0" startPos="16.55" endPos="29.55" friendlyPos="true" name="IGLESIA DE LA FATIMA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.22" lane="270507403#2_0" startPos="92.50" endPos="105.50" friendlyPos="true" name="AV.LOJA Y PRIMERA DE MAYO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.23" lane="535613367#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. LOJA E ISABEL LANDIVAR"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.24" lane="535613367#4_0" startPos="107.00" endPos="120.00" friendlyPos="true" name="AVENIDA LOJA Y PICHINCHA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.25" lane="1160030823#0_0" startPos="200.82" endPos="213.82" friendlyPos="true" name="COLEGIO MIGUEL MERCHAN"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.26" lane="427451695#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. LOJA Y REMIGIO CRESPO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.27" lane="427451695#8_0" startPos="118.43" endPos="131.43" friendlyPos="true" name="PUENTE DEL VADO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.28" lane="42207931_0" startPos="101.35" endPos="114.35" friendlyPos="true" name="MERCADO 10 DE AGOSTO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.29" lane="402191987#0_0" startPos="57.40" endPos="70.40" friendlyPos="true" name="CENACULO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.30" lane="402191987#2_0" startPos="44.59" endPos="57.59" friendlyPos="true" name="COLEGIO SAN FRANCISCO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.31" lane="402191987#6_0" startPos="61.31" endPos="74.31" friendlyPos="true" name="TARQUI Y PIO BRAVO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.32" lane="39525772#3_0" startPos="2.35" endPos="15.35" friendlyPos="true" name="MARIA AUXILIADORA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.33" lane="39525772#5_0" startPos="67.41" endPos="80.41" friendlyPos="true" name="ESCUELA FRANCISCA DAVILA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.35" lane="399285452#3_0" startPos="41.14" endPos="54.14" friendlyPos="true" name="HOSPITAL CATOLICO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.36" lane="554134455#0_0" startPos="36.46" endPos="49.46" friendlyPos="true" name="PASAMANERIA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.37" lane="894193159#1_0" startPos="37.72" endPos="50.72" friendlyPos="true" name="TERMINAL TERRESTRE"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.38" lane="542417200#4_0" startPos="13.90" endPos="26.90" friendlyPos="true" name="ALMACENES JUAN ELJURI"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.39" lane="542417192#3_0" startPos="40.16" endPos="53.16" friendlyPos="true" name="AEROPUERTO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.40" lane="74346264#1_0" startPos="4.33" endPos="17.33" friendlyPos="true" name="AV. TURUHUAYCO Y CALLE VIEJA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.41" lane="380017188#0_0" startPos="17.06" endPos="30.06" friendlyPos="true" name="REDONDEL DE MIRAFLORES"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.42" lane="380017188#2_0" startPos="178.98" endPos="191.98" friendlyPos="true" name="ENTRADA A LA CATOLICA"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.44" lane="312336962#1_0" startPos="10.52" endPos="23.52" friendlyPos="true" name="REDONDEL PARQUE INDUSTRIAL"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.45" lane="312336962#2_0" startPos="349.75" endPos="362.75" friendlyPos="true" name="SECAP"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.46" lane="404964659_0" startPos="62.86" endPos="75.86" friendlyPos="true" name="PUENTE FABIAN ALARCON"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.47" lane="-50562509#9_0" startPos="2.96" endPos="15.96" friendlyPos="true" name="SAN PABLO DE LAGO Y CUBILCHE"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.48" lane="-50562509#7_0" startPos="2.23" endPos="15.23" friendlyPos="true" name="SAN PABLO DE LAGO Y SUROCUCHO"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.49" lane="-50562509#3_0" startPos="20.24" endPos="33.24" friendlyPos="true" name="SAN PABLO DE LAGO Y PATOQUINOAS"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.50" lane="118664590#2_0" startPos="23.54" endPos="36.54" friendlyPos="true" name="PATOQUINOAS Y QUINUAS"/>
+    <busStop id="5b6f8315-ef1d-4796-b663-2bbe678372b6.51" lane="118664611#3_0" startPos="4.83" endPos="17.83" friendlyPos="true" name="QUINUAS Y BUZA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.1" lane="-50562513_0" startPos="2.41" endPos="15.41" friendlyPos="true" name="LA TOREADORA Y SAN PABLO DE LAGO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.2" lane="548334254_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. AMERICAS Y SAN PABLO DE LAGO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.3" lane="329974456_0" startPos="341.38" endPos="354.38" friendlyPos="true" name="AV. AMERICAS ( GASOLINERA QUINTA CHICA)"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.4" lane="82898758#1_0" startPos="16.71" endPos="29.71" friendlyPos="true" name="PUENTE FABIAN ALARCON"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.5" lane="82898758#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARQUE INDUSTRIAL"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.7" lane="542421945#1_0" startPos="26.59" endPos="39.59" friendlyPos="true" name="ENTRADA A LA CATOLICA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.8" lane="542421945#4_0" startPos="200.24" endPos="213.24" friendlyPos="true" name="REDONDEL DE MIRAFLORES"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.9" lane="42207945#0_0" startPos="11.34" endPos="24.34" friendlyPos="true" name="AV.TURUHUAYCO Y HUACAS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.10" lane="42207945#3_0" startPos="60.83" endPos="73.83" friendlyPos="true" name="AV. TURUHUAYCO Y CALLE VIEJA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.19" lane="29223062#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="JUAN MONTALVO Y SANGURIMA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.20" lane="29223062#3_0" startPos="79.41" endPos="92.41" friendlyPos="true" name="JUAN MONTALVO Y GRAN COLOMBIA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.21" lane="29223062#9_0" startPos="14.39" endPos="27.39" friendlyPos="true" name="JUAN MONTALVO Y PRESIDENTE CORDOVA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.22" lane="49222379_0" startPos="10.63" endPos="23.63" friendlyPos="true" name="PRESIDENTE CORDOVA Y CORONEL TALBOT"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.23" lane="1148541133#5_0" startPos="60.13" endPos="73.13" friendlyPos="true" name="REDONDEL DEL OTORONGO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.24" lane="45429550#5_0" startPos="48.39" endPos="61.39" friendlyPos="true" name="AV. 12 DE ABRIL Y GUAYAS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.25" lane="542395213#1_0" startPos="11.47" endPos="24.47" friendlyPos="true" name="PUENTE DEL VADO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.26" lane="475886425#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="UNIVERSIDAD DE CUENCA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.29" lane="400017959_0" startPos="57.79" endPos="70.79" friendlyPos="true" name="AV.REMIGIO CRESPO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.30" lane="542393508#1_0" startPos="12.80" endPos="25.80" friendlyPos="true" name="PARQUE DE BICICROS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.31" lane="542393522_0" startPos="38.83" endPos="51.83" friendlyPos="true" name="AV. REMIGIO CRESPO Y RICARDO MUNOZ"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.32" lane="45393806#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO MIGUEL MERCHAN"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.33" lane="45393773#1_0" startPos="8.58" endPos="21.58" friendlyPos="true" name="JUAN BAUTISTA VASQUEZ Y RICARDO MU�OZ"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.34" lane="400014712_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LORENZO PIEDRA Y JUAN BAUTISTA VASQUEZ"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.35" lane="402499842#4_0" startPos="31.55" endPos="44.55" friendlyPos="true" name="LORENZO PIEDRA Y PICHINCHA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.36" lane="-320862699_0" startPos="75.57" endPos="88.57" friendlyPos="true" name="ESCUELA EUGENIO ESPEJO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.37" lane="-542537659#9_0" startPos="3.45" endPos="16.45" friendlyPos="true" name="1 DE MAYO Y 12 DE OCTUBRE"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.38" lane="-542537659#3_0" startPos="60.87" endPos="73.87" friendlyPos="true" name="1 DE MAYO Y FRANCISCO DE ORELLANA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.39" lane="-270507403#2_0" startPos="52.19" endPos="65.19" friendlyPos="true" name="AV. LOJA Y PEDRO CALDERON DE LA BARCA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.40" lane="-270507403#0_0" startPos="116.09" endPos="129.09" friendlyPos="true" name="AV.LOJA E ISABELA CATOLICA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.41" lane="-48914848#7_0" startPos="22.65" endPos="35.65" friendlyPos="true" name="IGLESIA DE LA FATIMA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.42" lane="-48914848#3_0" startPos="50.94" endPos="63.94" friendlyPos="true" name="AV. LOJA Y DON BOSCO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.43" lane="42207958#7_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="DIARIO EL TIEMPO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.44" lane="42207958#12_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. LOJA Y PUERTO DE PALOS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.45" lane="304931614_0" startPos="26.68" endPos="39.68" friendlyPos="true" name="AV. LOJA Y PEDRO DE ALVARADO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.46" lane="894741386_0" startPos="13.74" endPos="26.74" friendlyPos="true" name="AV. LOJA Y AV. AMERICAS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.47" lane="208743542#1-AddedOffRampEdge_0" startPos="22.19" endPos="35.19" friendlyPos="true" name="AMERICAS Y 2 DE AGOSTO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.48" lane="208743551#2_0" startPos="16.49" endPos="29.49" friendlyPos="true" name="RICARDO DURAN Y PEDRO V. MALDONADO"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.49" lane="310114805#2_0" startPos="18.87" endPos="31.87" friendlyPos="true" name="RICARDO DURAN Y JOSE MEJIA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.50" lane="310114805#7_0" startPos="5.34" endPos="18.34" friendlyPos="true" name="CENTRO SALUD YANUNCAY"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.51" lane="310114805#11_0" startPos="0.36" endPos="13.36" friendlyPos="true" name="RIO MAGDALENA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.52" lane="304031343#1_0" startPos="17.64" endPos="30.64" friendlyPos="true" name="COLEGIO BORJA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.53" lane="304749277#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESCUELA BORJA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.54" lane="304749277#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BARRIO SANTA TERESITA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.55" lane="304749443#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BARRIO LA UNION"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.56" lane="304749443#3_0" startPos="3.56" endPos="16.56" friendlyPos="true" name="CANCHAS PLANETA FUTBOL"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.57" lane="304749443#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO MANUEL CORDOVA GALARZA"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.58" lane="304749443#6_0" startPos="228.62" endPos="241.62" friendlyPos="true" name="HOSTERIA DURAN"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.59" lane="534903520#5_0" startPos="51.01" endPos="64.01" friendlyPos="true" name="BALNEARIOS MERCHAN"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.60" lane="47643022#2_0" startPos="20.91" endPos="33.91" friendlyPos="true" name="CUATRO ESQUINAS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.61" lane="82878647_0" startPos="32.81" endPos="45.81" friendlyPos="true" name="PLAZA DE BANOS"/>
+    <busStop id="b8095c5b-4289-4d63-8473-8800220b96b9.62" lane="547635360#1_0" startPos="5.42" endPos="18.42" friendlyPos="true" name="SECTOR CEMENTERIO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.0" lane="48503911#3_0" startPos="82.57" endPos="95.57" friendlyPos="true" name="HOSPITAL DEL IESS"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.1" lane="-118618284_0" startPos="15.63" endPos="28.63" friendlyPos="true" name="REDONDEL PUENTE MONAY"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.2" lane="-49588988#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SEMINARIO DE MONAY"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.3" lane="-49588988#1_0" startPos="52.21" endPos="65.21" friendlyPos="true" name="CIUDADELA TOMEBAMBA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.4" lane="-552624095#0_0" startPos="66.97" endPos="79.97" friendlyPos="true" name="AV. 24 DE MAYO Y EL COMERCIO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.5" lane="767900975#0_0" startPos="46.34" endPos="59.34" friendlyPos="true" name="EMPRESA ELECTRICA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.6" lane="300070733#0_0" startPos="16.57" endPos="29.57" friendlyPos="true" name="IGLESIA CRISTO SALVADOR"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.7" lane="300070733#4_0" startPos="9.10" endPos="22.10" friendlyPos="true" name="JORGE CARRERA ANDRADE"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.8" lane="400334460#1_0" startPos="55.73" endPos="68.73" friendlyPos="true" name="CAMILO PONCE Y MEDARDO ANGUEL SILVA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.9" lane="336161682#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMILO PONCE Y PUMAPUNGO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.10" lane="-335232729#2_0" startPos="8.71" endPos="21.71" friendlyPos="true" name="BENIGNO VELA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.11" lane="-48202924#3_0" startPos="17.89" endPos="30.89" friendlyPos="true" name="PACHACAMAC"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.12" lane="-542393521_0" startPos="19.58" endPos="32.58" friendlyPos="true" name="AV.PASEO DE LOS CANARIS"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.13" lane="-400672352#0_0" startPos="29.75" endPos="42.75" friendlyPos="true" name="MERCADO 12 DE ABRIL"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.14" lane="940158936#3_0" startPos="18.98" endPos="31.98" friendlyPos="true" name="ESCUELA TERESA VALSE"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.15" lane="893240697_0" startPos="3.47" endPos="16.47" friendlyPos="true" name="HONORATO VASQUEZ"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.16" lane="42195044#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PRESIDENTE CORDOVA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.17" lane="42141326#4_0" startPos="61.29" endPos="74.29" friendlyPos="true" name="PARQUE VICTOR J. CUESTA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.18" lane="42141326#11_0" startPos="76.22" endPos="89.22" friendlyPos="true" name="PARQUE DE LA UNE"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.19" lane="42141326#14_0" startPos="76.93" endPos="89.93" friendlyPos="true" name="SAN FRANCISCO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.20" lane="49217114#0_0" startPos="65.30" endPos="78.30" friendlyPos="true" name="PRESIDENTE CORDOVA Y JUAN MOLTALVO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.23" lane="-563376160#0_0" startPos="21.31" endPos="34.31" friendlyPos="true" name="COLEGIO SAGRADOS CORAZONES"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.24" lane="50370781_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CLINICA LATINOAMERICANA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.25" lane="533793749#2_0" startPos="30.82" endPos="43.82" friendlyPos="true" name="COLISEO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.26" lane="895423025_0" startPos="42.75" endPos="55.75" friendlyPos="true" name="EL BATAN"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.27" lane="40972477_0" startPos="13.67" endPos="26.67" friendlyPos="true" name="TOTEMS"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.28" lane="48903054#2_0" startPos="3.52" endPos="16.52" friendlyPos="true" name="EDWIN SACOTO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.32" lane="492764289#6_0" startPos="20.49" endPos="33.49" friendlyPos="true" name="PUENTE YANUNCAY"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.33" lane="480541133#1_0" startPos="10.25" endPos="23.25" friendlyPos="true" name="ENTRADA A MISICATA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.34" lane="476950165#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="INDURAMA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.35" lane="534538264#0_0" startPos="39.94" endPos="52.94" friendlyPos="true" name="ESTACION DE SERVICIOS EL ARENAL"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.36" lane="476099417#0_0" startPos="5.69" endPos="18.69" friendlyPos="true" name="CORALCENTRO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.37" lane="82880732#3_0" startPos="34.82" endPos="47.82" friendlyPos="true" name="LOS SAUCES"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.39" lane="208769662#0_0" startPos="19.71" endPos="32.71" friendlyPos="true" name="ENTRADA A LA AUTOPISTA"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.40" lane="208769662#2_0" startPos="44.58" endPos="57.58" friendlyPos="true" name="ENTRADA CARMEN DE GUZHO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.41" lane="347760557#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A GUZHO"/>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.42" lane="1095244323#0_0" startPos="5.28" endPos="18.28" friendlyPos="true" name="SUBIDA ALTERNA A TURI">
+        <access friendlyPos="true" lane="-1179951478_0" pos="0.00" length="88.36"/>
+        <access friendlyPos="true" lane="-154978139#6_0" pos="56.83" length="17.43"/>
+        <access friendlyPos="true" lane="1179951478_0" pos="53.63" length="84.47"/>
+        <access friendlyPos="true" lane="154978139#6_0" pos="200.41" length="12.62"/>
+        <access friendlyPos="true" lane="338566779_2" pos="233.52" length="31.09"/>
+        <access friendlyPos="true" lane="548305060#1_0" pos="42.99" length="99.63"/>
+        <access friendlyPos="true" lane="548305060#2_0" pos="31.34" length="40.08"/>
+    </busStop>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.43" lane="1095244323#1_0" startPos="204.72" endPos="217.72" friendlyPos="true" name="EDIFICIOS VISTA LINDA">
+        <access friendlyPos="true" lane="-403724112#0_0" pos="0.20" length="32.67"/>
+        <access friendlyPos="true" lane="-403724112#1_0" pos="40.20" length="43.65"/>
+        <access friendlyPos="true" lane="-552432616_0" pos="92.71" length="40.71"/>
+        <access friendlyPos="true" lane="242069321_0" pos="34.11" length="56.87"/>
+        <access friendlyPos="true" lane="397300510_2" pos="46.60" length="28.31"/>
+        <access friendlyPos="true" lane="403724112#0_0" pos="0.00" length="28.64"/>
+        <access friendlyPos="true" lane="403724112#1_0" pos="0.00" length="44.98"/>
+        <access friendlyPos="true" lane="47198277#0_0" pos="0.00" length="38.86"/>
+        <access friendlyPos="true" lane="552432616_0" pos="0.00" length="36.44"/>
+        <access friendlyPos="true" lane="86134877_0" pos="28.87" length="57.35"/>
+    </busStop>
+    <busStop id="116f3e2a-62db-4a10-a811-0c306b6b3385.44" lane="47198277#1_0" startPos="423.19" endPos="436.19" friendlyPos="true" name="MALL DEL RIO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.1" lane="-333370734#0_0" startPos="67.70" endPos="80.70" friendlyPos="true" name="COLEGIO TECNICO SALESIANO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.2" lane="552272187#1_0" startPos="60.55" endPos="73.55" friendlyPos="true" name="FERNANDO DE ARAGON"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.3" lane="338566778#0_0" startPos="83.00" endPos="96.00" friendlyPos="true" name="PARQUE IBERIA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.4" lane="894843683_0" startPos="12.28" endPos="25.28" friendlyPos="true" name="DON BOSCO Y 12 DE OCTUBRE"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.5" lane="552447258_0" startPos="47.35" endPos="60.35" friendlyPos="true" name="AV. DON BOSCO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.6" lane="60727908#1_0" startPos="40.87" endPos="53.87" friendlyPos="true" name="FACULTAD DE AGRONOMIA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.7" lane="60727908#3_0" startPos="63.85" endPos="76.85" friendlyPos="true" name="URBANIZACION PORTON DEL RIO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.8" lane="60727908#3_0" startPos="330.11" endPos="343.11" friendlyPos="true" name="REDONDEL AUTOPISTA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.9" lane="47198284#1_0" startPos="91.83" endPos="104.83" friendlyPos="true" name="ENTRADA PUNTA CORRAL"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.10" lane="347760559#8_0" startPos="64.93" endPos="77.93" friendlyPos="true" name="ENTRADA A GUZHO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.11" lane="208769659_0" startPos="57.72" endPos="70.72" friendlyPos="true" name="CONTROL SUR"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.12" lane="42201262#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LOS SAUCES"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.13" lane="534538265#3_0" startPos="73.51" endPos="86.51" friendlyPos="true" name="CORALCENTRO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.14" lane="82880743#2_0" startPos="78.72" endPos="91.72" friendlyPos="true" name="ESTACION SERVICIOS ARENAL"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.15" lane="476099416#2_0" startPos="7.61" endPos="20.61" friendlyPos="true" name="LICEO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.20" lane="548294140_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. REMIGIO CRESPO Y EDWIN SACOTO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.21" lane="475312110_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="TOTEMS"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.22" lane="946923667#2_0" startPos="10.14" endPos="23.14" friendlyPos="true" name="COLISEO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.23" lane="400264945_0" startPos="26.56" endPos="39.56" friendlyPos="true" name="CLINICA LATINOAMERICANA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.24" lane="563376160#1_0" startPos="21.65" endPos="34.65" friendlyPos="true" name="COLEGIO SAGRADOS CORAZONES"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.31" lane="42143918#16_0" startPos="64.79" endPos="77.79" friendlyPos="true" name="AV. HUAYNA-CAPAC"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.32" lane="49577742#0_0" startPos="11.39" endPos="24.39" friendlyPos="true" name="PEDRO CARVO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.33" lane="-47198333#0_0" startPos="16.29" endPos="29.29" friendlyPos="true" name="VIRACOCHABAMBA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.34" lane="48202924#0_0" startPos="33.99" endPos="46.99" friendlyPos="true" name="PASEO DE LOS CANARIS Y VIRACOCHABAMBA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.35" lane="49586905#0_0" startPos="11.77" endPos="24.77" friendlyPos="true" name="PACHACAMAC"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.36" lane="49586905#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO CESAR DAVILA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.37" lane="-84719901#3_0" startPos="0.50" endPos="13.50" friendlyPos="true" name="CAMILO PONCE Y JORGE CARRERA ANDRADE"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.38" lane="-84719901#0_0" startPos="1.54" endPos="14.54" friendlyPos="true" name="PASEO DE LOS CANARIS"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.39" lane="62203283#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PASEO DE LOS CANARIS Y MAX UHLE"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.40" lane="1127608013#1_0" startPos="18.20" endPos="31.20" friendlyPos="true" name="MAX UHLE Y JORGE CARRERA ANDRADE"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.41" lane="400335422#1_0" startPos="61.03" endPos="74.03" friendlyPos="true" name="EMPRESA ELECTRICA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.42" lane="552624095#0_0" startPos="122.77" endPos="135.77" friendlyPos="true" name="AV. 24 DE MAYO Y EL COMERCIO"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.43" lane="49588988#1_0" startPos="93.16" endPos="106.16" friendlyPos="true" name="CIUDADELA TOMEBAMBA"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.44" lane="49588988#5_0" startPos="97.25" endPos="110.25" friendlyPos="true" name="SEMINARIO DE MONAY"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.45" lane="118618284_0" startPos="0.92" endPos="13.92" friendlyPos="true" name="REDONDEL PUENTE MONAY"/>
+    <busStop id="1b89240b-a5a4-420d-8c4e-2b47557a7919.46" lane="303067093#0_0" startPos="20.89" endPos="33.89" friendlyPos="true" name="HOSPITAL DEL IESS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.29" lane="824632704#0_0" startPos="38.23" endPos="51.23" friendlyPos="true" name="DEL BATAN"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.30" lane="301528005#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GRAN COLOMBIA Y AV. DE LAS AMERICAS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.31" lane="533787302_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESTACION DE SERVICIOS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.32" lane="304027275#13_0" startPos="26.67" endPos="39.67" friendlyPos="true" name="CAMINO DEL TEJAR Y CAMINO A RACAR"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.33" lane="304027275#20_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMINO DEL TEJAR Y ENTRADA HOTEL ORO VERDE"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.34" lane="304027275#26_0" startPos="2.12" endPos="15.12" friendlyPos="true" name="CAMINO DEL TEJAR Y DEL SARAR"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.35" lane="247314611#4_0" startPos="44.29" endPos="57.29" friendlyPos="true" name="CALLE LOS CEREZOS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.36" lane="247314611#8_0" startPos="42.80" endPos="55.80" friendlyPos="true" name="GLADIOLOS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.37" lane="247314611#15_0" startPos="6.71" endPos="19.71" friendlyPos="true" name="LAS HORTENSIAS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.38" lane="247314611#15_0" startPos="294.02" endPos="307.01" friendlyPos="true" name="SAN VICENTE"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.39" lane="534903496#1_0" startPos="106.92" endPos="119.92" friendlyPos="true" name="GLADIOLOS"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.40" lane="534903496#6_0" startPos="96.67" endPos="109.67" friendlyPos="true" name="Y DEL SARAR"/>
+    <busStop id="2425ea4c-3643-4cb9-8018-9deeec89290c.41" lane="534903496#10_0" startPos="67.91" endPos="80.91" friendlyPos="true" name="Y DE LA COLINA"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.0" lane="-534903496#10_0" startPos="94.40" endPos="107.40" friendlyPos="true" name="Y DE LA COLINA"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.1" lane="-534903496#6_0" startPos="3.66" endPos="16.66" friendlyPos="true" name="Y DEL SARAR"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.2" lane="-534903496#2_0" startPos="33.06" endPos="46.06" friendlyPos="true" name="GLADIOLOS"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.3" lane="-534903496#0_0" startPos="99.16" endPos="112.16" friendlyPos="true" name="SAN VICENTE"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.4" lane="-247314611#15_0" startPos="284.19" endPos="297.19" friendlyPos="true" name="LAS HORTENSIAS"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.5" lane="-247314611#8_0" startPos="47.58" endPos="60.58" friendlyPos="true" name="GLADIOLOS"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.6" lane="-247314611#4_0" startPos="26.01" endPos="39.01" friendlyPos="true" name="CALLE LOS CEREZOS"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.7" lane="-304027275#18_0" startPos="3.62" endPos="16.62" friendlyPos="true" name="CAMINO DEL TEJAR Y ENTRADA HOTEL ORO VERDE"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.8" lane="-304027275#13_0" startPos="33.21" endPos="46.21" friendlyPos="true" name="CAMINO DEL TEJAR Y CAMINO A RACAR"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.9" lane="-304027275#9_0" startPos="3.99" endPos="16.99" friendlyPos="true" name="CAMINO DEL TEJAR Y PALTAN"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.10" lane="-304027275#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMINO DEL TEJAR Y AVENIDA DE LAS AMERICAS"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.11" lane="304027273#3_0" startPos="3.33" endPos="16.33" friendlyPos="true" name="PARQUE EL TEJAR"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.12" lane="-48581463#0_0" startPos="20.59" endPos="33.59" friendlyPos="true" name="EL PUNTO"/>
+    <busStop id="a50407ed-9e8f-4ee8-aa0c-0ae3e88b45c5.13" lane="45426149#2_0" startPos="50.88" endPos="63.88" friendlyPos="true" name="DEL BATAN"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.1" lane="-48903014#7_0" startPos="4.00" endPos="17.00" friendlyPos="true" name="AVENIDA AMAZONAS"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.2" lane="553308443#3_0" startPos="26.90" endPos="39.90" friendlyPos="true" name="UNIDAD NACIONAL"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.3" lane="893427501#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESCUELA UNEDID"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.4" lane="893245579#1_0" startPos="21.76" endPos="34.76" friendlyPos="true" name="REDONDEL LOS TOTEMS"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.17" lane="400328785_0" startPos="2.38" endPos="15.38" friendlyPos="true" name="PUENTE DEL VERGEL"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.18" lane="400328785_0" startPos="294.86" endPos="307.86" friendlyPos="true" name="AV.PASEO DE LOS CANARIS"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.19" lane="305497106_0" startPos="74.35" endPos="87.35" friendlyPos="true" name="HOSPITAL REGIONAL"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.20" lane="303119547#1_0" startPos="20.98" endPos="33.98" friendlyPos="true" name="COLEGIO DANIEL CORDOVA"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.21" lane="304169505_0" startPos="70.74" endPos="83.74" friendlyPos="true" name="PARQUE EL PARAISO"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.22" lane="895322467_0" startPos="65.71" endPos="78.71" friendlyPos="true" name="COLEGIO GARAICOA"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.23" lane="334104877#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESTACION DE SERVICIOS"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.24" lane="334104877#2_0" startPos="0.90" endPos="13.90" friendlyPos="true" name="VIRGEN DE EL CISNE"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.25" lane="334104877#4_0" startPos="5.86" endPos="18.86" friendlyPos="true" name="EL COCO"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.26" lane="898438147_0" startPos="6.55" endPos="19.55" friendlyPos="true" name="ENTRADA A SAN ANTONIO"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.27" lane="898438149_0" startPos="29.55" endPos="42.55" friendlyPos="true" name="CHILCAPAMBA"/>
+    <busStop id="2aafe817-a0de-4410-b301-3d1514f79361.28" lane="406089757#3_0" startPos="76.97" endPos="89.97" friendlyPos="true" name="ENTRADA A CASTILLA CRUZ"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.0" lane="-406089757#3_0" startPos="8.44" endPos="21.44" friendlyPos="true" name="ENTRADA A CASTILLA CRUZ"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.1" lane="-406089757#0_0" startPos="82.94" endPos="95.94" friendlyPos="true" name="CHILCAPAMBA"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.2" lane="-898438147_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A SAN ANTONIO"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.3" lane="-334104877#4_0" startPos="56.63" endPos="69.63" friendlyPos="true" name="EL COCO"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.4" lane="-334104877#2_0" startPos="136.58" endPos="149.58" friendlyPos="true" name="VIRGEN DE EL CISNE"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.5" lane="-894176464#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESTACION DE SERVICIOS"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.6" lane="79793743#0_0" startPos="48.59" endPos="61.59" friendlyPos="true" name="COLEGIO GARAICOA"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.7" lane="416636170#0_0" startPos="9.88" endPos="22.88" friendlyPos="true" name="REDONDEL DEL PARAISO"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.8" lane="416636170#3_0" startPos="62.89" endPos="75.89" friendlyPos="true" name="PUENTE DE GAPAL"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.9" lane="45424967#2_0" startPos="80.03" endPos="93.03" friendlyPos="true" name="ETAPA"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.10" lane="542406428#4_0" startPos="39.72" endPos="52.72" friendlyPos="true" name="AV. 10 DE AGOSTO Y JOSE MARIA SANCHEZ"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.11" lane="542406424_0" startPos="117.24" endPos="130.24" friendlyPos="true" name="TORRES DE YANUNCAY"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.12" lane="552506217_0" startPos="18.50" endPos="31.50" friendlyPos="true" name="ENTRADA AL ESTADIO"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.13" lane="542407411_0" startPos="89.14" endPos="102.14" friendlyPos="true" name="MERCADO 27 DE FEBRERO"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.14" lane="534903524#0_0" startPos="2.08" endPos="15.08" friendlyPos="true" name="VIRGEN DE BRONCE"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.15" lane="534903524#2_0" startPos="40.86" endPos="53.86" friendlyPos="true" name="JUAN INIGUEZ"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.16" lane="542406711#1_0" startPos="11.55" endPos="24.55" friendlyPos="true" name="AV. 12 DE OCTUBRE"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.17" lane="542542863#0_0" startPos="33.51" endPos="46.51" friendlyPos="true" name="PICHINCHA"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.18" lane="542537653_0" startPos="53.58" endPos="66.58" friendlyPos="true" name="HORTENSIA MATA"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.19" lane="894341925_0" startPos="52.82" endPos="65.82" friendlyPos="true" name="AV. 10 DE AGOSTO (2)"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.20" lane="48903026#1_0" startPos="72.95" endPos="85.95" friendlyPos="true" name="AV. LOJA"/>
+    <busStop id="6eb65328-4544-4e01-8895-869587c7bf32.21" lane="492798730_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MEXICO"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.0" lane="-211405705#18_0" startPos="123.36" endPos="136.36" friendlyPos="true" name="ENTRADA SUBESTACIN CUENCA-EMPRESA ELCTRICA"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.1" lane="-211405705#13_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMINO MONAY PACCHA(6)"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.2" lane="-211405705#9_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMINO MONAY PACCHA(7)"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.3" lane="-211405705#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA BAGUANCHI DEL VALLE"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.4" lane="-211405705#3_0" startPos="101.28" endPos="114.28" friendlyPos="true" name="ESCUELA CATALINA GUERRERO"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.5" lane="-211405705#0_0" startPos="71.26" endPos="84.26" friendlyPos="true" name="BARRIO EMILIO SARMIENTO"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.6" lane="65135066#0_0" startPos="0.86" endPos="13.86" friendlyPos="true" name="BARRIO EL AGUACATE"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.7" lane="65135066#1_0" startPos="53.67" endPos="66.67" friendlyPos="true" name="COLINA DE MONAY"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.8" lane="65135066#5_0" startPos="105.74" endPos="118.74" friendlyPos="true" name="CAMINO MONAY PACCHA(8)"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.9" lane="48503908_0" startPos="27.55" endPos="40.55" friendlyPos="true" name="CAMINO MONAY PACCHA(9)"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.10" lane="48503912#1_0" startPos="1.66" endPos="14.66" friendlyPos="true" name="HOSPITAL DEL IESS"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.12" lane="894240864_0" startPos="7.86" endPos="20.86" friendlyPos="true" name="MONAY SHOPPING"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.13" lane="144175300#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CIUDADELA RETAMAS BAJAS"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.14" lane="144175300#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GRAN AKI"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.15" lane="661761284#1_0" startPos="19.88" endPos="32.88" friendlyPos="true" name="GONZALES SUAREZ Y PASEO DE LOS CANARIS"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.16" lane="48908522#4_0" startPos="18.29" endPos="31.29" friendlyPos="true" name="RIO AGUARICO"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.17" lane="-345400884#2_0" startPos="10.04" endPos="23.04" friendlyPos="true" name="SECTOR PEREZPATA"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.18" lane="-345400884#0_0" startPos="115.89" endPos="128.89" friendlyPos="true" name="GONZALEZ SUAREZ Y AV.GUAPONDELIG"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.19" lane="-48909344#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CEMENTERIO"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.20" lane="45421575#3_0" startPos="40.52" endPos="53.52" friendlyPos="true" name="ROCAFUERTE"/>
+    <busStop id="740c5dd1-02b3-4831-b971-3d7d51e76212.21" lane="45421575#5_0" startPos="81.78" endPos="94.78" friendlyPos="true" name="ROCAFUERTE Y HUAYNA CAPAC"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.2" lane="473373906#6_0" startPos="6.27" endPos="19.27" friendlyPos="true" name="AV. 10 DE AGOSTO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.3" lane="542537656_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="HORTENSIA MATA"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.4" lane="542542877_0" startPos="74.42" endPos="87.42" friendlyPos="true" name="PICHINCHA"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.5" lane="542406710_0" startPos="135.27" endPos="148.27" friendlyPos="true" name="AV. 12 DE OCTUBRE"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.6" lane="534903531#0_0" startPos="48.58" endPos="61.58" friendlyPos="true" name="JUAN INIGUEZ"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.7" lane="-311202507#1_0" startPos="47.54" endPos="60.54" friendlyPos="true" name="VIRGEN DE BRONCE"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.9" lane="406209023_0" startPos="30.50" endPos="43.50" friendlyPos="true" name="ESTADIO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.10" lane="400017963_0" startPos="93.08" endPos="106.08" friendlyPos="true" name="PARQUE DE LA MADRE"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.11" lane="306730606#6_0" startPos="31.73" endPos="44.73" friendlyPos="true" name="MILLENIUM PLAZA"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.12" lane="400015744#1_0" startPos="8.75" endPos="21.75" friendlyPos="true" name="CLINICA SANTA ANA"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.13" lane="400328787_0" startPos="14.01" endPos="27.01" friendlyPos="true" name="IGLESIA EL VERGEL"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.14" lane="334968135_0" startPos="106.42" endPos="119.42" friendlyPos="true" name="HOSPITAL REGIONAL"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.15" lane="42453874#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUMAPUNGO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.16" lane="-60204533_0" startPos="3.08" endPos="16.08" friendlyPos="true" name="PISARCAPAC"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.17" lane="-389741418_0" startPos="14.76" endPos="27.76" friendlyPos="true" name="BANCO CENTRAL"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.18" lane="-48202922_0" startPos="4.01" endPos="17.01" friendlyPos="true" name="ESCUELA TERESA VALSE"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.19" lane="-389741417#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SAN BLAS"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.20" lane="398532019#0_0" startPos="25.14" endPos="38.14" friendlyPos="true" name="GONZALES SUAREZ"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.21" lane="398532019#6_0" startPos="11.28" endPos="24.28" friendlyPos="true" name="GARCIA MORENO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.22" lane="48909344#0_0" startPos="41.83" endPos="54.83" friendlyPos="true" name="CEMENTERIO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.23" lane="345400884#0_0" startPos="1.52" endPos="14.52" friendlyPos="true" name="GONZALEZ SUAREZ Y AV.GUAPONDELIG"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.24" lane="345400884#2_0" startPos="59.02" endPos="72.02" friendlyPos="true" name="SECTOR PEREZPATA"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.25" lane="48909343#1_0" startPos="39.19" endPos="52.19" friendlyPos="true" name="REDONDEL GONZALES SUAREZ"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.26" lane="297810922_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GONZALES SUAREZ Y PASEO DE LOS CANARIS"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.27" lane="661761282#2_0" startPos="19.23" endPos="32.23" friendlyPos="true" name="GRAN AKI"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.28" lane="423605450#4_0" startPos="1.07" endPos="14.07" friendlyPos="true" name="CIUDADELA RETAMAS BAJAS"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.29" lane="565935390_0" startPos="176.96" endPos="189.96" friendlyPos="true" name="MONAY SHOPPING"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.31" lane="-48503912#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="HOSPITAL DEL IESS"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.32" lane="-65135066#5_0" startPos="11.54" endPos="24.54" friendlyPos="true" name="CAMINO MONAY PACCHA(9)"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.33" lane="-65135066#4_0" startPos="93.09" endPos="106.09" friendlyPos="true" name="CAMINO MONAY PACCHA(8)"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.34" lane="-65135066#2_0" startPos="260.81" endPos="273.81" friendlyPos="true" name="COLINA DE MONAY"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.35" lane="-65135066#0_0" startPos="114.35" endPos="127.35" friendlyPos="true" name="BARRIO EL AGUACATE"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.36" lane="211405705#0_0" startPos="2.82" endPos="15.82" friendlyPos="true" name="BARRIO EMILIO SARMIENTO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.37" lane="211405705#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESCUELA CATALINA GUERRERO"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.38" lane="211405705#4_0" startPos="26.57" endPos="39.57" friendlyPos="true" name="ENTRADA BAGUANCHI DEL VALLE"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.39" lane="211405705#9_0" startPos="112.09" endPos="125.09" friendlyPos="true" name="CAMINO MONAY PACCHA(6)"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.40" lane="211405705#14_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMINO MONAY PACCHA(5)"/>
+    <busStop id="d6db1719-05d6-44e2-bd60-4ce5eed286fb.41" lane="211405705#18_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA SUBESTACIN CUENCA-EMPRESA ELCTRICA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.0" lane="-143451982#2_0" startPos="173.83" endPos="186.83" friendlyPos="true" name="CAMINO A RACAR"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.1" lane="-403675653#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="IGLESIA SAN PEDRO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.2" lane="-47198316#49_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ABELARDO J. ANDRADE Y CALLE DEL TEJAR"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.3" lane="-47198316#45_0" startPos="67.83" endPos="80.83" friendlyPos="true" name="ABELARDO J. ANDRADE Y MIGUEL MOLINA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.4" lane="-47198316#38_0" startPos="6.00" endPos="19.00" friendlyPos="true" name="CAMINO A SAN PEDRO DEL CEBOLLAR"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.5" lane="-47198316#35_0" startPos="3.61" endPos="16.61" friendlyPos="true" name="COLEGIO AMERICANO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.6" lane="-47198316#32_0" startPos="32.38" endPos="45.38" friendlyPos="true" name="PAI MUTUALISTA AZUAY"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.7" lane="-47198316#18_0" startPos="5.46" endPos="18.46" friendlyPos="true" name="LA Y DEL CEBOLLAR"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.8" lane="-47198316#12_0" startPos="103.28" endPos="116.28" friendlyPos="true" name="ABELARDO J. ANDRADE Y LUIS PASTEUR"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.9" lane="-47198316#5_0" startPos="70.44" endPos="83.44" friendlyPos="true" name="ABELARDO J. ANDRADE Y ARQUIMIDES"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.10" lane="-47198316#3_0" startPos="277.30" endPos="290.30" friendlyPos="true" name="ENTRADA A LAZARETO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.11" lane="-47198316#0_0" startPos="7.27" endPos="20.27" friendlyPos="true" name="ABELARDO J ANDRADE Y FRANCISCO TAMARIZ"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.12" lane="-42207929#7_0" startPos="40.40" endPos="53.40" friendlyPos="true" name="LUIS CORDERO Y AV. LAS AMERICAS"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.13" lane="-42207929#0_0" startPos="54.96" endPos="67.96" friendlyPos="true" name="HEROES DE VERDELOMA Y LUIS CORDERO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.14" lane="399760675#4_0" startPos="37.75" endPos="50.75" friendlyPos="true" name="HEROES DE VERDELOMA Y TARQUI"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.15" lane="402191968#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="FEDERICO PROANO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.26" lane="397470317_0" startPos="48.86" endPos="61.86" friendlyPos="true" name="INNFA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.27" lane="542393519#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AV. REMIGIO CRESPO Y AV. LOJA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.28" lane="542393515_0" startPos="20.99" endPos="33.99" friendlyPos="true" name="AV. REMIGIO CRESPO Y RICARDO MUNOZ"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.29" lane="542393635#0_0" startPos="9.55" endPos="22.55" friendlyPos="true" name="PARQUE DE BICICROS"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.30" lane="250130982_0" startPos="88.29" endPos="101.29" friendlyPos="true" name="REDONDEL DEL ESTADIO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.32" lane="42143234#1_0" startPos="84.22" endPos="97.22" friendlyPos="true" name="LUIS MORENO MORA Y ROBERTO CRESPO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.33" lane="542406430_0" startPos="55.01" endPos="68.01" friendlyPos="true" name="AV. 10 DE AGOSTO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.34" lane="-310108973#5_0" startPos="7.43" endPos="20.43" friendlyPos="true" name="AV. 10 DE AGOSTO Y FRANCISCO MOSCOSO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.35" lane="-310108973#0_0" startPos="88.61" endPos="101.61" friendlyPos="true" name="FRANCISCO MOSCOSO Y 27 DE FEBRERO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.36" lane="-542395238_0" startPos="45.40" endPos="58.40" friendlyPos="true" name="UNIVERSIDAD DEL AZUAY"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.37" lane="-549589229#0_0" startPos="45.37" endPos="58.37" friendlyPos="true" name="AV. 24 DE MAYO Y LAS GOLONDRINAS"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.38" lane="42806135_0" startPos="84.15" endPos="97.15" friendlyPos="true" name="GAPAL"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.39" lane="300314902#0_0" startPos="11.76" endPos="24.76" friendlyPos="true" name="PUENTE DE GAPAL"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.40" lane="79793741#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARQUE PARAISO"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.41" lane="334122580#0_0" startPos="61.81" endPos="74.81" friendlyPos="true" name="COLEGIO GARAICOA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.42" lane="334122579_0" startPos="218.71" endPos="231.71" friendlyPos="true" name="REDONDEL DE LA EMPRESA ELECTRICA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.48" lane="118618280#1_0" startPos="111.12" endPos="124.12" friendlyPos="true" name="CERAMICA ANDINA"/>
+    <busStop id="1e8969c9-053f-4abf-b99b-b8723b4ad58f.49" lane="305890906_0" startPos="138.64" endPos="151.64" friendlyPos="true" name="HOSPITAL DEL RIO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.0" lane="65123855#3_0" startPos="27.10" endPos="40.10" friendlyPos="true" name="HOSPITAL DEL RIO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.1" lane="-118618280#2_0" startPos="247.27" endPos="260.27" friendlyPos="true" name="CERAMICA ANDINA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.7" lane="-542402342_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="REDONDEL DE LA EMPRESA ELECTRICA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.8" lane="-334122580#0_0" startPos="19.74" endPos="32.74" friendlyPos="true" name="COLEGIO GARAICOA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.9" lane="403403246_0" startPos="46.18" endPos="59.18" friendlyPos="true" name="GAPAL"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.10" lane="549589229#0_0" startPos="46.01" endPos="59.01" friendlyPos="true" name="AV. 24 DE MAYO Y LAS GOLONDRINAS"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.11" lane="1055114601#2_0" startPos="17.78" endPos="30.78" friendlyPos="true" name="UNIVERSIDAD DEL AZUAY"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.12" lane="337277998_0" startPos="54.59" endPos="67.59" friendlyPos="true" name="FRANCISCO MOSCOSO Y 27 DE FEBRERO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.13" lane="310108973#5_0" startPos="5.95" endPos="18.95" friendlyPos="true" name="AV. 10 E AGOSTO Y FRANCISCO MOSCOSO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.14" lane="48547986#3_0" startPos="23.87" endPos="36.87" friendlyPos="true" name="LUIS MORENO MORA Y PAUCARBAMBA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.15" lane="249653688_0" startPos="106.29" endPos="119.29" friendlyPos="true" name="CLINICA SANTA ANA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.16" lane="542398110_0" startPos="43.39" endPos="56.39" friendlyPos="true" name="TODOS SANTOS"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.23" lane="542393520#0_0" startPos="33.11" endPos="46.11" friendlyPos="true" name="AV. REMIGIO CRESPO Y AV. LOJA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.24" lane="397470315_0" startPos="3.67" endPos="16.67" friendlyPos="true" name="COLEGIO ANTONIO AVILA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.37" lane="402191985#1_0" startPos="21.07" endPos="34.07" friendlyPos="true" name="ESCUELA FEDERICO PROANO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.38" lane="59833646#2_0" startPos="17.34" endPos="30.34" friendlyPos="true" name="HEROES DE VERDELOMA Y TARQUI"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.39" lane="42207929#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="HEROES DE VERDELOMA Y LUIS CORDERO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.40" lane="42207929#7_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LUIS CORDERO Y AV. LAS AMERICAS"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.41" lane="47198316#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ABELARDO J. ANDRADE Y FRANCISCO TAMARIZ"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.42" lane="47198316#3_0" startPos="9.79" endPos="22.79" friendlyPos="true" name="ENTRADA A LAZARETO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.43" lane="47198316#4_0" startPos="4.61" endPos="17.61" friendlyPos="true" name="ABELARDO J. ANDRADE Y ARQUIMIDES"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.44" lane="47198316#11_0" startPos="38.65" endPos="51.65" friendlyPos="true" name="ABELARDO J. ANDRADE Y LUIS PASTEUR"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.45" lane="47198316#18_0" startPos="24.95" endPos="37.95" friendlyPos="true" name="LA Y DEL CEBOLLAR"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.46" lane="47198316#32_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PAI MUTUALISTA AZUAY"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.47" lane="47198316#36_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO AMERICANO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.48" lane="47198316#41_0" startPos="27.45" endPos="40.45" friendlyPos="true" name="CAMINO A SAN PEDRO DEL CEBOLLAR"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.49" lane="47198316#45_0" startPos="53.94" endPos="66.94" friendlyPos="true" name="ABELARDO J. ANDRADE Y MIGUEL MOLINA"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.50" lane="403675653#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ABELARDO J. ANDRADE Y CALLE DEL TEJAR"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.51" lane="403675653#2_0" startPos="65.23" endPos="78.23" friendlyPos="true" name="IGLESIA SAN PEDRO"/>
+    <busStop id="2676cc05-eeac-4a42-ae80-9e41ade14922.52" lane="143451982#2_0" startPos="36.61" endPos="49.61" friendlyPos="true" name="CAMINO A RACAR"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.0" lane="-1181238541_0" startPos="45.62" endPos="58.62" friendlyPos="true" name="CHIMBO YUNGA"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.1" lane="-50635544#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="EL TABLON"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.2" lane="-50635544#0_0" startPos="12.75" endPos="25.75" friendlyPos="true" name="LA CRUZ"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.14" lane="542542866#0_0" startPos="27.03" endPos="40.03" friendlyPos="true" name="PARQUE EL RECREO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.15" lane="542542886#1_0" startPos="59.63" endPos="72.63" friendlyPos="true" name="AV. DE LAS AMERICAS"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.32" lane="494076767#3_0" startPos="25.18" endPos="38.18" friendlyPos="true" name="VARGAS MACHUCA Y PIO BRAVO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.33" lane="399285449#0_0" startPos="74.02" endPos="87.02" friendlyPos="true" name="ESCUELA ESPANA"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.34" lane="-402525975#1_0" startPos="25.68" endPos="38.68" friendlyPos="true" name="ZONA MILITAR"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.35" lane="542432517_0" startPos="17.73" endPos="30.73" friendlyPos="true" name="H. DE VERDELOMA Y LUIS CORDERO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.39" lane="-86143932#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CRUZ VERDE"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.40" lane="-86143932#1_0" startPos="253.37" endPos="266.37" friendlyPos="true" name="BAJADA LAZARETO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.41" lane="-86143932#0_0" startPos="36.88" endPos="49.88" friendlyPos="true" name="CASA DEL SOMBRERO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.42" lane="-402936516#1_0" startPos="97.02" endPos="110.02" friendlyPos="true" name="CANCHAS LAZARETO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.43" lane="-1047224118_0" startPos="0.08" endPos="13.08" friendlyPos="true" name="Y DEL PAI"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.44" lane="-172097889_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A YANATURO"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.45" lane="-172097889_0" startPos="111.49" endPos="124.49" friendlyPos="true" name="EXPORTADORA DE SOMBREROS"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.46" lane="-172097889_0" startPos="422.07" endPos="435.07" friendlyPos="true" name="CASA COMUNAL"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.47" lane="-50545403#0_0" startPos="215.09" endPos="228.09" friendlyPos="true" name="VIVERO FORESTAL"/>
+    <busStop id="1d8d8dd4-6881-4e14-9bdd-724d46c18ec9.48" lane="172097271#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARADA YANATURO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.1" lane="172097271#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="VIVERO FORESTAL"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.2" lane="172097271#5_0" startPos="203.72" endPos="216.72" friendlyPos="true" name="CASA COMUNAL"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.3" lane="50545403#1_0" startPos="349.81" endPos="362.81" friendlyPos="true" name="EXPORTADORA DE SOMBREROS"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.4" lane="50545403#1_0" startPos="451.82" endPos="464.82" friendlyPos="true" name="ENTRADA A YANATURO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.5" lane="1047224118_0" startPos="159.89" endPos="172.89" friendlyPos="true" name="Y DEL PAI"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.6" lane="402936516#1_0" startPos="10.39" endPos="23.39" friendlyPos="true" name="CANCHAS LAZARETO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.7" lane="86143932#1_0" startPos="161.32" endPos="174.32" friendlyPos="true" name="BAJADA LAZARETO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.8" lane="86143932#2_0" startPos="3.79" endPos="16.79" friendlyPos="true" name="CRUZ VERDE"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.12" lane="48502730#0_0" startPos="8.28" endPos="21.28" friendlyPos="true" name="LUIS CORDERO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.13" lane="542416845#0_0" startPos="9.20" endPos="22.20" friendlyPos="true" name="COLEGIO MANUEL J. CALLE"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.14" lane="552412428_0" startPos="63.34" endPos="76.34" friendlyPos="true" name="HOSPITAL CATOLICO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.15" lane="492478500#1_0" startPos="29.52" endPos="42.52" friendlyPos="true" name="9 DE OCTUBRE"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.16" lane="492470512#0_0" startPos="66.99" endPos="79.99" friendlyPos="true" name="9 DE OCTUBRE"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.17" lane="554582108#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SAN BLAS"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.18" lane="554582108#5_0" startPos="58.95" endPos="71.95" friendlyPos="true" name="TOMAS ORDONEZ Y PRESIDENTE CORDOVA"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.26" lane="48903010#2_0" startPos="34.75" endPos="47.75" friendlyPos="true" name="BATAN"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.27" lane="48903010#5_0" startPos="9.36" endPos="22.36" friendlyPos="true" name="REMIGIO CRESPO"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.35" lane="403124327#1_0" startPos="82.61" endPos="95.61" friendlyPos="true" name="CIEZA DE LEON"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.47" lane="50635544#0_0" startPos="33.01" endPos="46.01" friendlyPos="true" name="LA CRUZ"/>
+    <busStop id="7da7015c-891c-47bb-a2fd-c641378b3f4c.48" lane="50635544#2_0" startPos="36.28" endPos="49.28" friendlyPos="true" name="EL TABLON"/>
+    <busStop id="5f9f7a27-7dfb-49a2-860d-187846dbfd0d.0" lane="-304614463_0" startPos="0.01" endPos="13.01" friendlyPos="true" name="PARQUE NARANCAY"/>
+    <busStop id="5f9f7a27-7dfb-49a2-860d-187846dbfd0d.23" lane="371507445_0" startPos="45.13" endPos="58.13" friendlyPos="true" name="EL CHORRO"/>
+    <busStop id="5f9f7a27-7dfb-49a2-860d-187846dbfd0d.24" lane="506574922_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="HEROES DE VERDELOMA Y GIL RAMIREZ"/>
+    <busStop id="5f9f7a27-7dfb-49a2-860d-187846dbfd0d.28" lane="74346289#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="UNIVERSIDAD POLITECNICA SALESIANA"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.0" lane="74346301#3_0" startPos="57.86" endPos="70.86" friendlyPos="true" name="UNIVERSIDAD POLITECNICA SALESIANA"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.1" lane="542417180#2_0" startPos="6.23" endPos="19.23" friendlyPos="true" name="GIL RAMIREZ DAVALOS Y ELIA LIUT"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.2" lane="542417196#5_0" startPos="72.52" endPos="85.52" friendlyPos="true" name="ALMACENES JUAN ELJURI"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.3" lane="542417196#10_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="TERMINAL TERRESTRE"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.4" lane="534903507_0" startPos="42.64" endPos="55.64" friendlyPos="true" name="HEROES DE VERDELOMA Y GIL RAMIREZ"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.5" lane="542416843#0_0" startPos="26.80" endPos="39.80" friendlyPos="true" name="HEROES DE VERDELOMA  Y TOMAS ORDONEZ"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.6" lane="542416843#3_0" startPos="66.94" endPos="79.94" friendlyPos="true" name="COLEGIO MANUEL J. CALLE"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.31" lane="527765242#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CRUCE AUTOPISTA"/>
+    <busStop id="6367dc8d-1cc2-4aac-b106-eaa957b8bdc8.32" lane="304614463_0" startPos="56.60" endPos="69.60" friendlyPos="true" name="PARQUE NARANCAY"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.0" lane="160683005#2_0" startPos="106.54" endPos="119.54" friendlyPos="true" name="GOLF CLUB"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.1" lane="160683005#6_0" startPos="448.12" endPos="461.12" friendlyPos="true" name="GOLF CLUB 2"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.2" lane="160683005#8_0" startPos="146.80" endPos="159.80" friendlyPos="true" name="AUTOPISTA"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.3" lane="-242293654#3_0" startPos="53.03" endPos="66.03" friendlyPos="true" name="AUTOPISTA A SAN JOAQUIN"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.4" lane="208797343#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARROQUIA SAN JOAQUIN"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.5" lane="208797343#4_0" startPos="12.77" endPos="25.77" friendlyPos="true" name="SUB CENTRO DE SALUD"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.6" lane="-208797338#1_0" startPos="18.85" endPos="31.85" friendlyPos="true" name="CALLE SIN NOMBRE"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.7" lane="-534903508#2_0" startPos="173.52" endPos="186.52" friendlyPos="true" name="TEQUILA 3"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.8" lane="-107405952#9_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CRUZ VERDE"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.9" lane="-107405952#6_0" startPos="109.40" endPos="122.40" friendlyPos="true" name="AV CARLOS ARIZAGA VEGA (2)"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.10" lane="-107405952#5_0" startPos="88.71" endPos="101.71" friendlyPos="true" name="AV. CARLOS ARIZAGA VEGA (1)"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.11" lane="-107405952#3_0" startPos="70.57" endPos="83.57" friendlyPos="true" name="TEQUILA"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.12" lane="-404950433#3_0" startPos="9.87" endPos="22.87" friendlyPos="true" name="ISAURO RODRIGUEZ"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.13" lane="404948898_0" startPos="11.93" endPos="24.93" friendlyPos="true" name="LUIS BRAVO"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.17" lane="337243756#2_0" startPos="37.25" endPos="50.25" friendlyPos="true" name="CALLE DEL BATAN"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.33" lane="260532895#1_0" startPos="5.62" endPos="18.62" friendlyPos="true" name="GIL RAMIREZ DAVALOS Y ALCABALAS"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.34" lane="48552542#6_0" startPos="128.62" endPos="141.62" friendlyPos="true" name="CALLE VIEJA Y ALCABALAS"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.35" lane="48552542#16_0" startPos="88.20" endPos="101.20" friendlyPos="true" name="UNIVERSIDAD POLITECNICA SALESIANA"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.39" lane="-74346291#6_0" startPos="24.39" endPos="37.39" friendlyPos="true" name="ENTRABA BARRIO LAS PENAS"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.40" lane="-74346291#3_0" startPos="68.83" endPos="81.83" friendlyPos="true" name="BARRIAL BLANCO Y ARSOBISPO SERRANO ABAD"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.41" lane="-994030255#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUENTE BARRIAL BLANCO"/>
+    <busStop id="dab6ab5f-227a-44db-adc1-1946d9e1dc41.42" lane="-825883866#1_0" startPos="4.69" endPos="17.69" friendlyPos="true" name="VISORREY"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.0" lane="994030257#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="VISORREY"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.1" lane="994030255#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUENTE BARRIAL BLANCO"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.2" lane="86143926#6_0" startPos="43.12" endPos="56.12" friendlyPos="true" name="CATOLICA"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.3" lane="86143858#2_0" startPos="28.58" endPos="41.58" friendlyPos="true" name="CALLE MIGUEL LEON"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.4" lane="86143858#7_0" startPos="11.98" endPos="24.98" friendlyPos="true" name="OBISPO MIGUEL LEON - AV.AMERICAS"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.9" lane="-48552542#11_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CALLE VIEJA - ARMENILLAS"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.10" lane="-48552542#5_0" startPos="18.29" endPos="31.29" friendlyPos="true" name="CALLE VIEJA Y ALCABALAS"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.11" lane="554134453_0" startPos="1.18" endPos="14.18" friendlyPos="true" name="EL ROLLO"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.12" lane="542440756_0" startPos="55.40" endPos="68.40" friendlyPos="true" name="HUAYNA CAPAC Y VEGA MUNOZ"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.34" lane="404950433#3_0" startPos="10.92" endPos="23.92" friendlyPos="true" name="ISAURO RODRIGUEZ"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.35" lane="107405952#3_0" startPos="9.84" endPos="22.84" friendlyPos="true" name="TEQUILA"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.36" lane="107405952#5_0" startPos="50.59" endPos="63.59" friendlyPos="true" name="AV. CARLOS ARIZAGA VEGA (1)"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.37" lane="107405952#6_0" startPos="156.51" endPos="169.51" friendlyPos="true" name="AV. CARLOS ARIZAGA VEGA (2)"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.38" lane="107405952#9_0" startPos="3.24" endPos="16.24" friendlyPos="true" name="CRUZ VERDE"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.39" lane="534903508#2_0" startPos="230.95" endPos="243.95" friendlyPos="true" name="TEQUILA 3"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.40" lane="534903508#2_0" startPos="400.13" endPos="413.13" friendlyPos="true" name="LAS PALMERAS RESTAURANT"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.41" lane="242293600#0_0" startPos="57.71" endPos="70.71" friendlyPos="true" name="EL PORTAL - RECEPCIONES"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.42" lane="46229297#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARROQUIA SAN JOAQUIN"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.43" lane="242293654#1_0" startPos="217.57" endPos="230.57" friendlyPos="true" name="AUTOPISTA"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.44" lane="-160683005#8_0" startPos="55.94" endPos="68.94" friendlyPos="true" name="GOLF CLUB 1"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.45" lane="-160683005#6_0" startPos="245.95" endPos="258.95" friendlyPos="true" name="GOLF CLUB 3"/>
+    <busStop id="fb300d02-42df-44ee-9f8b-a097ff43b111.46" lane="-160683005#2_0" startPos="6.77" endPos="19.77" friendlyPos="true" name="GOLF CLUB"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.0" lane="-47198322#14_0" startPos="35.83" endPos="48.83" friendlyPos="true" name="PARQUE"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.1" lane="-47198322#8_0" startPos="23.76" endPos="36.76" friendlyPos="true" name="ALTIPLANO"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.2" lane="-47198322#5_0" startPos="48.76" endPos="61.76" friendlyPos="true" name="ALTIPLANO Y HUALCOPO"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.3" lane="-47198322#1_0" startPos="56.57" endPos="69.57" friendlyPos="true" name="ALTIPLANO Y LOS ANDES"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.5" lane="48904786_0" startPos="7.62" endPos="20.62" friendlyPos="true" name="BUERAN Y LOS ANDES"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.6" lane="301162182#6_0" startPos="40.33" endPos="53.33" friendlyPos="true" name="BUERAN Y ANTISANA"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.7" lane="301162182#8_0" startPos="52.90" endPos="65.90" friendlyPos="true" name="BUERAN Y SARAURCO"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.8" lane="-48905436#1_0" startPos="15.32" endPos="28.32" friendlyPos="true" name="CORDILLERA"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.9" lane="533567983_0" startPos="1.86" endPos="14.86" friendlyPos="true" name="PASEO DE LOS CANARIS"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.10" lane="48904784#4_0" startPos="14.78" endPos="27.78" friendlyPos="true" name="CENTRAL TELEFONICA"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.11" lane="303056611_0" startPos="33.97" endPos="46.97" friendlyPos="true" name="GUAPONDELIG"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.34" lane="102321746#0_0" startPos="16.40" endPos="29.40" friendlyPos="true" name="ENTRADA A MISICATA"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.35" lane="102321728#7_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CENTRO EDUCATIVO LOS FRESNOS"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.36" lane="102321728#16_0" startPos="5.54" endPos="18.54" friendlyPos="true" name="CDLA.ELOY ALFARO"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.37" lane="83822092#2_0" startPos="26.40" endPos="39.40" friendlyPos="true" name="CDLA.ELOY ALFARO 2"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.38" lane="241515843#1_0" startPos="20.65" endPos="33.65" friendlyPos="true" name="BARRIO CRISTAL"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.39" lane="-510583030#7_0" startPos="64.72" endPos="77.72" friendlyPos="true" name="ARTURO CISNEROS"/>
+    <busStop id="406d40f5-308d-4373-a676-26d2d32de383.40" lane="510583030#3_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARADA TERMINAL"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.1" lane="510583030#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ARTURO CISNEROS"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.2" lane="510583030#12_0" startPos="44.27" endPos="57.27" friendlyPos="true" name="ARTURO CISNEROS Y JULIO VINUEZA"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.3" lane="-304927071#2_0" startPos="73.08" endPos="86.08" friendlyPos="true" name="ARTURO CISNEROS Y TARQUINO CORDERO"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.4" lane="102321811#8_0" startPos="94.97" endPos="107.97" friendlyPos="true" name="VIA A MISICATA"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.5" lane="258713789#2_0" startPos="2.11" endPos="15.11" friendlyPos="true" name="CARMELA MALO"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.28" lane="48583899#0_0" startPos="8.44" endPos="21.44" friendlyPos="true" name="JOAQUIN DE OLMEDO"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.31" lane="605352054_0" startPos="78.61" endPos="91.61" friendlyPos="true" name="HURTADO DE MENDOZA"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.32" lane="-48904784#4_0" startPos="13.77" endPos="26.77" friendlyPos="true" name="CENTRAL TELEFONICA"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.33" lane="48904779#1_0" startPos="35.62" endPos="48.62" friendlyPos="true" name="COLEGIO HERLINDA TORAL"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.34" lane="533567986_0" startPos="7.79" endPos="20.79" friendlyPos="true" name="PASEO DE LOS CANARIS"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.35" lane="48905436#1_0" startPos="10.93" endPos="23.93" friendlyPos="true" name="CORDILLERA"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.36" lane="-301162182#7_0" startPos="47.15" endPos="60.15" friendlyPos="true" name="BUERAN Y SARAURCO"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.37" lane="-48904786_0" startPos="98.22" endPos="111.22" friendlyPos="true" name="BUERAN Y DELOS ANDES"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.39" lane="47198322#1_0" startPos="13.48" endPos="26.48" friendlyPos="true" name="ALTIPLANO"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.40" lane="47198322#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ALTIPLANO Y HUALCOPO"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.41" lane="47198322#9_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ALTIPLANO Y MAITACAPAG"/>
+    <busStop id="8cbdf0f5-5dc0-4ae6-8e6c-29656215a802.42" lane="47198322#14_0" startPos="8.36" endPos="21.36" friendlyPos="true" name="PARQUE"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.7" lane="1177472547#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUCARA Y POROTILLOS"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.8" lane="298237604#2_0" startPos="3.09" endPos="16.09" friendlyPos="true" name="MANUEL TENORIO Y GALTE"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.9" lane="-391472282#11_0" startPos="24.72" endPos="37.72" friendlyPos="true" name="JOSE ORTEGA Y DEMOCRITO"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.10" lane="-391472282#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="JOSE ORTEGA Y ARQUIMIDES"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.11" lane="400048266#2_0" startPos="6.91" endPos="19.91" friendlyPos="true" name="LA Y DEL CEBOLLAR"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.12" lane="400048266#7_0" startPos="4.97" endPos="17.97" friendlyPos="true" name="AV. DEL CHOFER Y EL CAMPANARIO"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.13" lane="400048266#9_0" startPos="145.39" endPos="158.39" friendlyPos="true" name="AV. DEL CHOFER Y LA ESPADANA"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.14" lane="393883405#0_0" startPos="285.18" endPos="298.18" friendlyPos="true" name="AV. DEL CHOFER Y ALEJANDRO ONITCHENCO"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.15" lane="400048267#0_0" startPos="88.86" endPos="101.86" friendlyPos="true" name="AV. DEL CHOFER Y AV. DE LAS AMERICAS"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.27" lane="337277984#10_0" startPos="121.23" endPos="134.23" friendlyPos="true" name="SUCRE Y HUAYNA CAPAC"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.28" lane="118664583#6_0" startPos="0.57" endPos="13.57" friendlyPos="true" name="JUAN JOSE FLORES Y GARCIA MORENO"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.29" lane="47198301#0_0" startPos="63.44" endPos="76.44" friendlyPos="true" name="MERCADO 12 DE ABRIL"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.30" lane="311212627#5_0" startPos="13.60" endPos="26.60" friendlyPos="true" name="CEMENTERIO"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.31" lane="47198334#0_0" startPos="12.44" endPos="25.44" friendlyPos="true" name="YANAHURCO Y GUAPONDELIG"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.32" lane="47198334#3_0" startPos="17.55" endPos="30.55" friendlyPos="true" name="YANAHURCO Y CHANCHAN"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.33" lane="47198334#7_0" startPos="24.52" endPos="37.52" friendlyPos="true" name="CIUDADELA BANCO DE LA VIVIENDA"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.34" lane="312128241#0_0" startPos="41.29" endPos="54.29" friendlyPos="true" name="YANAHURCO Y CORDILLERA"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.35" lane="897198379#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CIUDADELA UNE"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.36" lane="897198378#1_0" startPos="42.70" endPos="55.70" friendlyPos="true" name="YANAHURCO Y LOS ANDES"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.40" lane="-301162960#2_0" startPos="12.78" endPos="25.78" friendlyPos="true" name="HURTADO DE MENDOZA Y PAN DE AZUCAR"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.41" lane="-48905439_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="HURTADO DE MENSOZA Y FRENTE HUILA"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.42" lane="-48905439_0" startPos="321.96" endPos="334.96" friendlyPos="true" name="HURTADO DE MENDOZA Y PANAMERICANA"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.43" lane="404308830#1_0" startPos="2.25" endPos="15.25" friendlyPos="true" name="PUENTE MILCHICHIG"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.45" lane="82898761#1_0" startPos="68.49" endPos="81.49" friendlyPos="true" name="LLANTERA"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.46" lane="82898755#1_0" startPos="52.65" endPos="65.65" friendlyPos="true" name="CUARTEL"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.47" lane="82898745#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LOMA DEL CUARTEL"/>
+    <busStop id="a95b95e8-1c99-4f5e-8daf-c58f32199f6d.48" lane="82898745#3_0" startPos="80.06" endPos="93.06" friendlyPos="true" name="EL EJECUTIVO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.0" lane="-82898745#3_0" startPos="30.18" endPos="43.18" friendlyPos="true" name="EL EJECUTIVO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.1" lane="-82898745#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LOMA DEL CUARTEL"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.2" lane="895688665_0" startPos="29.49" endPos="42.49" friendlyPos="true" name="CUARTEL"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.3" lane="-82898761#0_0" startPos="37.58" endPos="50.58" friendlyPos="true" name="LLANTERA"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.4" lane="404308831_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUENTE FABIAN ALARCON"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.5" lane="49211225#2_0" startPos="67.96" endPos="80.96" friendlyPos="true" name="PUENTE MILCHICHIG"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.6" lane="48552366_0" startPos="18.91" endPos="31.91" friendlyPos="true" name="HUSTADO DE MENDOZA Y PANAMERICANA"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.7" lane="48905440#0_0" startPos="0.13" endPos="13.13" friendlyPos="true" name="HURTADO DE MENDOZA Y SAGEO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.8" lane="301162960#2_0" startPos="8.34" endPos="21.34" friendlyPos="true" name="HURTADO DE MENDOZA Y EL REVENTADOR"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.12" lane="-897198378#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="YANAHURCO Y LOS ANDES"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.13" lane="-897198379#0_0" startPos="23.13" endPos="36.13" friendlyPos="true" name="CIUDADELA UNE"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.14" lane="-312128241#0_0" startPos="65.72" endPos="78.72" friendlyPos="true" name="YANAHURCO Y CORDILLERA"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.15" lane="-47198334#6_0" startPos="11.44" endPos="24.44" friendlyPos="true" name="CIUDADELA BANCO DE LA VIVIENDA"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.16" lane="-47198334#4_0" startPos="43.11" endPos="56.10" friendlyPos="true" name="YANAHURCO Y CHANCHAN"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.17" lane="-47198334#0_0" startPos="112.31" endPos="125.31" friendlyPos="true" name="YANAHURCO Y GUAPONDELIG"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.18" lane="-311212627#5_0" startPos="4.32" endPos="17.32" friendlyPos="true" name="CEMENTERIO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.19" lane="-311212627#0_0" startPos="42.71" endPos="55.71" friendlyPos="true" name="MERCADO 12 DE ABRIL"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.20" lane="311212628#5_0" startPos="26.58" endPos="39.58" friendlyPos="true" name="ELOY ALFARO Y GARCIA MORENO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.21" lane="42141326#0_0" startPos="18.93" endPos="31.93" friendlyPos="true" name="PRESIDENTE CORDOVA Y MIGUEL A.ESTRELLA"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.28" lane="402191975_0" startPos="97.08" endPos="110.08" friendlyPos="true" name="MUNOZ VERNAZA Y TARQUI"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.29" lane="-400048267#0_0" startPos="5.31" endPos="18.31" friendlyPos="true" name="AV. DEL CHOFER Y AV. DE LAS AMERICAS"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.30" lane="-393883405#1_0" startPos="167.74" endPos="180.74" friendlyPos="true" name="AV. DEL CHOFER Y ALEJANDRO ONITCHENCO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.31" lane="-400048266#9_0" startPos="1.95" endPos="14.95" friendlyPos="true" name="AV. DEL CHOFER Y LA ESPADANA"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.32" lane="-400048266#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LA Y DEL CEBOLLAR"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.33" lane="391472282#4_0" startPos="5.94" endPos="18.94" friendlyPos="true" name="JOSE ORTEGA Y ARQUIMIDES"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.34" lane="391472282#11_0" startPos="14.80" endPos="27.80" friendlyPos="true" name="JOSE ORTEGA Y MANUEL TENORIO"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.35" lane="-298237604#2_0" startPos="6.08" endPos="19.08" friendlyPos="true" name="MANUEL TENORIO Y GALTE"/>
+    <busStop id="d677a5ae-d1d6-474d-870b-c0c8ed2bca71.36" lane="-1177472547#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MANUEL TENORIO Y POROTILLOS"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.0" lane="-304749757_0" startPos="18.18" endPos="31.18" friendlyPos="true" name="TERMINAL SALESIANOS"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.1" lane="304749756#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SALESIANOS"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.2" lane="304749811#2_0" startPos="6.75" endPos="19.75" friendlyPos="true" name="PRIMERA CONVENCION"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.3" lane="304749870#2_0" startPos="5.54" endPos="18.54" friendlyPos="true" name="MANUELA CANIZARES"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.4" lane="304749870#11_0" startPos="17.50" endPos="30.50" friendlyPos="true" name="TARQUINO CORDERO"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.6" lane="-304931274#3_0" startPos="3.03" endPos="16.03" friendlyPos="true" name="INDURAMA"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.7" lane="-329974455#8_0" startPos="2.82" endPos="15.82" friendlyPos="true" name="GASPAR DE CARVAJAL"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.8" lane="-329974455#3_0" startPos="11.33" endPos="24.33" friendlyPos="true" name="AV. LOJA Y DON BOSCO"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.9" lane="-552272186#0_0" startPos="68.64" endPos="81.64" friendlyPos="true" name="DON BOSCO Y FRANCISCO DE ORRELLANA"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.10" lane="-534903493#2_0" startPos="9.16" endPos="22.16" friendlyPos="true" name="BARTOLOME RUIZ"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.11" lane="-894843684_0" startPos="1.92" endPos="14.92" friendlyPos="true" name="DON BOSCO Y 12 DE OCTUBRE"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.12" lane="-338566778#1_0" startPos="33.34" endPos="46.34" friendlyPos="true" name="PARQUE IBERIA"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.13" lane="-552272187#1_0" startPos="14.84" endPos="27.84" friendlyPos="true" name="FERNANDO DE ARAGON"/>
+    <busStop id="7a3cf57b-c945-4f68-849d-4b759f52b569.44" lane="48499881_0" startPos="12.74" endPos="25.74" friendlyPos="true" name="AV. 24 DE MAYO"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.3" lane="416636169_0" startPos="25.35" endPos="38.35" friendlyPos="true" name="LAS HERRERIAS"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.4" lane="336149062_0" startPos="138.38" endPos="151.38" friendlyPos="true" name="COLEGIO DANIEL CORDOVA"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.5" lane="208782596#2_0" startPos="61.72" endPos="74.72" friendlyPos="true" name="HOSPITAL REGIONAL"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.12" lane="559910546#1_0" startPos="3.19" endPos="16.19" friendlyPos="true" name="ROCAFUERTE Y JOSE JOAQUIN DE OLMEDO"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.18" lane="400084630#1_0" startPos="11.39" endPos="24.39" friendlyPos="true" name="MIGUEL HEREDIA"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.19" lane="400051327#1_0" startPos="44.67" endPos="57.67" friendlyPos="true" name="MIGUEL HEREDIA Y LAMAR"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.29" lane="304102914_0" startPos="60.94" endPos="73.94" friendlyPos="true" name="AV. DON BOSCO"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.30" lane="311652835#1_0" startPos="62.53" endPos="75.53" friendlyPos="true" name="PABLO PICASSO"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.31" lane="338566780#3_0" startPos="21.99" endPos="34.99" friendlyPos="true" name="COLEGIO TECNICO SALESIANO"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.35" lane="534903493#2_0" startPos="70.84" endPos="83.84" friendlyPos="true" name="BARTOLOME RUIZ"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.36" lane="534903493#5_0" startPos="34.88" endPos="47.88" friendlyPos="true" name="DON BOSCO Y FRANCISCO DE ORELLANA"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.37" lane="329974455#3_0" startPos="28.49" endPos="41.49" friendlyPos="true" name="DON BOSCO Y AV. LOJA"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.38" lane="329974455#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GASPAR DE CARVAJAL"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.39" lane="304931274#3_0" startPos="38.12" endPos="51.12" friendlyPos="true" name="INDURAMA"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.41" lane="559912997#0_0" startPos="20.48" endPos="33.47" friendlyPos="true" name="AV. DE LAS AMERICAS"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.42" lane="-304749870#11_0" startPos="0.96" endPos="13.96" friendlyPos="true" name="TARQUINO CORDERO"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.43" lane="-304749870#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MANUELA CANIZARES"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.44" lane="-304749811#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PRIMERA CONVENCION"/>
+    <busStop id="f75dd3fb-35b5-4359-a8a6-09ac6d510e24.45" lane="-304749743#1_0" startPos="25.21" endPos="38.21" friendlyPos="true" name="SALESIANOS"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.0" lane="62203344_0" startPos="76.20" endPos="89.20" friendlyPos="true" name="CEMENTERIO MUNICIPAL"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.1" lane="118366336#3_0" startPos="3.05" endPos="16.05" friendlyPos="true" name="ESTACION DE SERVICIOS"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.12" lane="144175333_0" startPos="3.40" endPos="16.40" friendlyPos="true" name="ENTRADA A RAYOLOMA"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.13" lane="144175333_0" startPos="280.06" endPos="293.06" friendlyPos="true" name="RAYOLOMA 1"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.14" lane="144175333_0" startPos="1147.34" endPos="1160.34" friendlyPos="true" name="RAYOLOMA 2"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.15" lane="747175926#4_0" startPos="71.40" endPos="84.40" friendlyPos="true" name="RAYOLOMA 3"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.16" lane="747175927#3_0" startPos="0.92" endPos="13.92" friendlyPos="true" name="CAPILLA RAYOLOMA"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.17" lane="747175931#1_0" startPos="82.85" endPos="95.85" friendlyPos="true" name="RAYOLOMA 4"/>
+    <busStop id="1de3c5ff-a699-4e86-a185-bceef3d1fcce.18" lane="173949867#2_0" startPos="19.50" endPos="32.50" friendlyPos="true" name="RAYOLOMA 5"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.0" lane="-173949867#2_0" startPos="26.23" endPos="39.23" friendlyPos="true" name="RAYOLOMA 5"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.1" lane="-173949867#0_0" startPos="133.94" endPos="146.94" friendlyPos="true" name="RAYOLOMA 4"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.2" lane="-747175927#3_0" startPos="103.57" endPos="116.57" friendlyPos="true" name="CAPILLA RAYOLOMA"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.3" lane="-747175927#0_0" startPos="68.82" endPos="81.82" friendlyPos="true" name="RAYOLOMA 3"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.4" lane="-747175926#2_0" startPos="146.26" endPos="159.26" friendlyPos="true" name="RAYOLOMA 2"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.5" lane="-747175926#0_0" startPos="999.52" endPos="1012.52" friendlyPos="true" name="RAYOLOMA 1"/>
+    <busStop id="2ccd62c5-7f16-4550-9090-356d133b0bb0.6" lane="-747175926#0_0" startPos="1282.35" endPos="1295.35" friendlyPos="true" name="ENTRADA A RAYOLOMA"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.0" lane="-74346273#6_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A LOS PINOS"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.1" lane="-74346273#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CIUDADELA LLACTA-HUASI"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.2" lane="-74346273#1_0" startPos="7.04" endPos="20.04" friendlyPos="true" name="EL PUENTE JAIME ROLDOS"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.3" lane="-50561607#2_0" startPos="122.95" endPos="135.95" friendlyPos="true" name="COLEGIO CARLOS CRESPI"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.4" lane="50561599#1_0" startPos="10.49" endPos="23.49" friendlyPos="true" name="ENTRADA A LAS PENAS"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.5" lane="400089872#0_0" startPos="20.04" endPos="33.04" friendlyPos="true" name="BARRIO LA SERENATA"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.6" lane="-403392747_0" startPos="181.02" endPos="194.02" friendlyPos="true" name="BODEGA JUAN ELJURI"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.7" lane="-351447907#4_0" startPos="65.85" endPos="78.85" friendlyPos="true" name="ENTRADA A MIRAFLORES"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.8" lane="351447905#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CENTRO EDUCATIVO PEQUENOS TRAVIESOS"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.9" lane="351447905#3_0" startPos="88.12" endPos="101.12" friendlyPos="true" name="COLEGIO MANUEL J. CALLE"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.17" lane="554582106#7_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MARIANO CUEVA"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.18" lane="554582106#9_0" startPos="84.47" endPos="97.47" friendlyPos="true" name="TODOS SANTOS"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.22" lane="542407412_0" startPos="45.82" endPos="58.82" friendlyPos="true" name="MERCADO 27 DE FEBRERO"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.24" lane="542406423_0" startPos="109.73" endPos="122.73" friendlyPos="true" name="TORRES YANUNCAY"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.25" lane="542406431#2_0" startPos="33.25" endPos="46.25" friendlyPos="true" name="RADIO CANELA"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.26" lane="45424966#1_0" startPos="28.52" endPos="41.52" friendlyPos="true" name="ETAPA"/>
+    <busStop id="184837d5-c893-495c-8c3a-da2987f90f5e.27" lane="45424966#2_0" startPos="166.95" endPos="179.76" friendlyPos="true" name="LAS HERRERIAS"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.9" lane="416636169_0" startPos="334.24" endPos="347.24" friendlyPos="true" name="PARQUE EL PARAISO"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.10" lane="118664608_0" startPos="41.52" endPos="54.52" friendlyPos="true" name="PARQUE EL PARAISO"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.17" lane="118664583#0_0" startPos="23.97" endPos="36.97" friendlyPos="true" name="APROFE"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.24" lane="-351447905#3_0" startPos="23.66" endPos="36.66" friendlyPos="true" name="COLEGIO MANUEL J. CALLE"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.25" lane="402525976_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MARIANO CUEVA Y AMERICAS"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.26" lane="351447907#1_0" startPos="18.10" endPos="31.10" friendlyPos="true" name="ENTRADA A MIRAFLORES"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.27" lane="403392747_0" startPos="45.67" endPos="58.67" friendlyPos="true" name="BODEGA JUAN ELJURI"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.28" lane="-400089872#0_0" startPos="53.23" endPos="66.23" friendlyPos="true" name="BARRIO LA SERENATA"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.29" lane="-50561599#1_0" startPos="12.86" endPos="25.86" friendlyPos="true" name="ENTRADA A LAS PENAS"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.30" lane="50561607#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO CARLOS CRESPI"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.31" lane="74346273#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PUENTE JAIME ROLDOS"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.32" lane="74346273#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CIUDADELA LLACTA-HUASI"/>
+    <busStop id="45051227-1f67-45e5-a471-9c6b853cdc7f.33" lane="74346273#6_0" startPos="12.19" endPos="25.19" friendlyPos="true" name="ENTRADA A LOS PINOS"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.0" lane="-405200386_0" startPos="20.36" endPos="33.36" friendlyPos="true" name="JULIO VERNE"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.1" lane="48147640#2_0" startPos="4.37" endPos="17.37" friendlyPos="true" name="FERNANDO CABALLERO"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.2" lane="61654221#1_0" startPos="12.80" endPos="25.80" friendlyPos="true" name="AUTOPISTA"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.3" lane="405172711_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESTACION DEL TREN"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.4" lane="895742358_0" startPos="8.85" endPos="21.85" friendlyPos="true" name="GAPAL"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.7" lane="65141886#4_0" startPos="10.87" endPos="23.87" friendlyPos="true" name="5 DE JUNIO"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.8" lane="48147639#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="TRES PUENTES"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.41" lane="-351447911#10_0" startPos="27.65" endPos="40.65" friendlyPos="true" name="BARRIAL BLANCO"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.42" lane="-351447911#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ARMENILLAS"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.43" lane="453772181_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BARRIAL BLANCO Y ESCALERAS"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.46" lane="86222253#0_0" startPos="15.60" endPos="28.60" friendlyPos="true" name="OBISPO ORDONEZ"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.47" lane="-50561600#7_0" startPos="230.85" endPos="243.85" friendlyPos="true" name="BARRIO LAS PENAS"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.48" lane="-50561600#4_0" startPos="26.38" endPos="39.38" friendlyPos="true" name="CALLE VIRGEN DEL CISNE"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.49" lane="-50561600#0_0" startPos="2.29" endPos="15.29" friendlyPos="true" name="CAMINO A SININCAY"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.51" lane="86143934#0_0" startPos="19.20" endPos="32.20" friendlyPos="true" name="ENTRADA CIUDADELA"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.52" lane="86143942_0" startPos="24.10" endPos="37.10" friendlyPos="true" name="CIUDADELA JAIME ROLDOS"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.53" lane="-725474108#4_0" startPos="41.28" endPos="54.28" friendlyPos="true" name="VIA LAZARETO"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.54" lane="-725474108#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CANCHA DEPORTIVA"/>
+    <busStop id="85549b77-5d9e-49e5-8bda-355118e7c96c.55" lane="-725474108#0_0" startPos="117.08" endPos="130.08" friendlyPos="true" name="JESUS DEL GRAN PODER"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.0" lane="725474108#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="JESUS DEL GRAN PODER"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.1" lane="725474108#0_0" startPos="21.45" endPos="34.45" friendlyPos="true" name="JESUS DEL GRAN PODER"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.2" lane="725474108#2_0" startPos="26.94" endPos="39.94" friendlyPos="true" name="CANCHA DEPORTIVA"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.3" lane="725474108#4_0" startPos="35.52" endPos="48.52" friendlyPos="true" name="VIA LAZARETO"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.4" lane="725474108#6_0" startPos="54.83" endPos="67.83" friendlyPos="true" name="PARQUE CENTRAL"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.5" lane="86143870_0" startPos="54.53" endPos="67.53" friendlyPos="true" name="EL PUENTE JAIME ROLDOS"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.6" lane="74346306#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA CIUDADELA"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.9" lane="50561600#4_0" startPos="76.09" endPos="89.09" friendlyPos="true" name="CALLE VIRGEN DEL CISNE"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.10" lane="50561600#7_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BARRIO LAS PENAS"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.11" lane="-86222253#0_0" startPos="71.90" endPos="84.90" friendlyPos="true" name="OBISPO ORDONEZ"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.12" lane="74346291#7_0" startPos="0.04" endPos="13.04" friendlyPos="true" name="SALIDA BARRIO LAS PENAS"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.13" lane="74346291#9_0" startPos="131.63" endPos="144.63" friendlyPos="true" name="REDONDEL DE MIRAFLORES"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.14" lane="351447911#8_0" startPos="3.26" endPos="16.26" friendlyPos="true" name="ARMENILLAS"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.15" lane="351447911#12_0" startPos="19.35" endPos="32.35" friendlyPos="true" name="PAI"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.45" lane="-65141886#4_0" startPos="54.77" endPos="67.77" friendlyPos="true" name="5 DE JUNIO"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.49" lane="43033045#0_0" startPos="35.33" endPos="48.33" friendlyPos="true" name="ESTACION DEL TREN"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.50" lane="-61654221#1_0" startPos="24.30" endPos="37.30" friendlyPos="true" name="AUTOPISTA"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.51" lane="-48147640#2_0" startPos="11.38" endPos="24.38" friendlyPos="true" name="FERNANDO CABELLARO"/>
+    <busStop id="a2f43091-d5f4-4d5f-8ff2-a0ca3f37ec0a.52" lane="405200386_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="JULIO VERNE"/>
+    <busStop id="3fa13650-488b-4bc0-90da-251c8687b081.0" lane="48548017_0" startPos="92.17" endPos="105.17" friendlyPos="true" name="MERCADO 27 DE FEBRERO"/>
+    <busStop id="3fa13650-488b-4bc0-90da-251c8687b081.6" lane="42492699#2_0" startPos="3.87" endPos="16.87" friendlyPos="true" name="REGISTRO CIVIL"/>
+    <busStop id="3fa13650-488b-4bc0-90da-251c8687b081.8" lane="42195044#6_0" startPos="73.64" endPos="86.64" friendlyPos="true" name="MANUEL VEGA Y SUCRE"/>
+    <busStop id="3fa13650-488b-4bc0-90da-251c8687b081.9" lane="42195044#8_0" startPos="12.47" endPos="25.47" friendlyPos="true" name="SAN BLAS"/>
+    <busStop id="3fa13650-488b-4bc0-90da-251c8687b081.10" lane="492470517_0" startPos="66.82" endPos="79.82" friendlyPos="true" name="CHOLA CUENCANA"/>
+    <busStop id="a50a517f-b78b-4b76-85bb-58db47440778.0" lane="559195754#4_0" startPos="65.71" endPos="78.70" friendlyPos="true" name="PARQUE INDUSTRIAL"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.11" lane="402191964#0_0" startPos="7.06" endPos="20.06" friendlyPos="true" name="GENERAL TORRES"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.12" lane="351440624#1_0" startPos="57.78" endPos="70.78" friendlyPos="true" name="MARIA AUXILIADORA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.28" lane="305296365#1_0" startPos="16.08" endPos="29.07" friendlyPos="true" name="LOS FRESNOS"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.29" lane="305296365#7_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="RINCON DE ESPANA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.30" lane="305296365#13_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LAVADORA CLEAN CAR"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.31" lane="107415176#2_0" startPos="20.37" endPos="33.37" friendlyPos="true" name="CANCHAS LA Y"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.32" lane="107415176#5_0" startPos="81.04" endPos="94.04" friendlyPos="true" name="Y DE MISICATA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.33" lane="62105990#3_0" startPos="13.51" endPos="26.51" friendlyPos="true" name="IGLESIA DE MISICATA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.34" lane="62105990#4_0" startPos="40.08" endPos="53.08" friendlyPos="true" name="ESCUELA DE MISICATA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.35" lane="534903513#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CONDOMINIOS LA PRADERA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.36" lane="534903513#6_0" startPos="55.46" endPos="68.46" friendlyPos="true" name="GRUTA VIRGEN DE LOURDES"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.37" lane="82878418#1_0" startPos="34.74" endPos="47.74" friendlyPos="true" name="LOS CIPRESES"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.38" lane="82878418#4_0" startPos="4.30" endPos="17.30" friendlyPos="true" name="UNIDAD EDUCATIVA CEDFI"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.39" lane="282993188_0" startPos="7.48" endPos="20.48" friendlyPos="true" name="LOS TILOS"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.40" lane="83822069#2_0" startPos="61.76" endPos="74.76" friendlyPos="true" name="LOMA DE HUIZHIL"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.41" lane="83822069#2_0" startPos="306.96" endPos="319.96" friendlyPos="true" name="IGLESIA DE HUIZHIL"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.42" lane="-47643023#13_0" startPos="49.44" endPos="62.44" friendlyPos="true" name="CABALLO CAMPANA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.43" lane="-47643023#12_0" startPos="259.40" endPos="272.40" friendlyPos="true" name="LA CURVA"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.44" lane="-47643023#11_0" startPos="107.15" endPos="120.15" friendlyPos="true" name="ENTRADA BARRIO SAN JACINTO"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.45" lane="-47643023#8_0" startPos="19.91" endPos="32.91" friendlyPos="true" name="GRUTA SAN JOSE"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.46" lane="-47643023#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CUIDADELA SAN JOSE"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.47" lane="-47643023#0_0" startPos="66.88" endPos="79.88" friendlyPos="true" name="BARRIO SAN VICENTE"/>
+    <busStop id="155d6af9-bef6-4a0e-84fa-96fcc9803f58.48" lane="-750940512#1_0" startPos="50.95" endPos="63.95" friendlyPos="true" name="ENTRADA A HUIZHIL"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.3" lane="750940512#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A HUIZHIL"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.4" lane="47643023#0_0" startPos="184.06" endPos="197.06" friendlyPos="true" name="BARRIO SAN VICENTE"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.5" lane="47643023#5_0" startPos="12.91" endPos="25.91" friendlyPos="true" name="CIUDADELA SAN JOSE"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.6" lane="47643023#8_0" startPos="44.46" endPos="57.46" friendlyPos="true" name="GRUTA SAN JOSE"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.7" lane="47643023#11_0" startPos="2.31" endPos="15.31" friendlyPos="true" name="ENTRADA BARRIO SAN JACINTO"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.8" lane="47643023#12_0" startPos="67.44" endPos="80.44" friendlyPos="true" name="LA CURVA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.9" lane="47643023#13_0" startPos="21.80" endPos="34.80" friendlyPos="true" name="CABALLO CAMPANA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.10" lane="-83822069#2_0" startPos="11.23" endPos="24.23" friendlyPos="true" name="IGLESIA DE HUIZHIL"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.11" lane="-83822069#2_0" startPos="245.98" endPos="258.98" friendlyPos="true" name="LOMA DE HUIZHIL"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.12" lane="-282993188_0" startPos="5.62" endPos="18.62" friendlyPos="true" name="LOS TILOS"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.13" lane="-82878418#4_0" startPos="45.14" endPos="58.14" friendlyPos="true" name="UNIDAD EDUCATIVA CEDFI"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.14" lane="-82878418#1_0" startPos="6.08" endPos="19.08" friendlyPos="true" name="LOS CIPRESES"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.15" lane="-534903513#6_0" startPos="1.95" endPos="14.95" friendlyPos="true" name="GRUTA VIRGEN DE LOURDES"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.16" lane="-534903513#4_0" startPos="1.01" endPos="14.01" friendlyPos="true" name="CONDOMINIO LA PRADERA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.17" lane="-62105990#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ESCUELA DE MISICATA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.18" lane="-62105990#3_0" startPos="98.97" endPos="111.97" friendlyPos="true" name="IGLESIA DE MISICATA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.19" lane="-107415176#5_0" startPos="9.62" endPos="22.62" friendlyPos="true" name="Y DE MISICATA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.20" lane="-107415176#2_0" startPos="17.33" endPos="30.33" friendlyPos="true" name="CANCHAS DE LA Y"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.21" lane="-305296365#13_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="LAVADORA CLEAN CAR"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.22" lane="-305296365#7_0" startPos="60.58" endPos="73.58" friendlyPos="true" name="RINCON DE ESPANA"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.23" lane="-305296365#2_0" startPos="68.57" endPos="81.57" friendlyPos="true" name="UNIDAD EDUCATIVA LOS FRESNOS"/>
+    <busStop id="1f1960ad-7300-49d0-ab3b-6381b5eb46d1.24" lane="-102321746#0_0" startPos="2.80" endPos="15.80" friendlyPos="true" name="ENTRADA A MISICATA"/>
+    <busStop id="8a5395ca-7da9-435d-bfe8-5e9a22d20544.6" lane="50365109#1_0" startPos="62.26" endPos="75.26" friendlyPos="true" name="GRAIMAN"/>
+    <busStop id="8a5395ca-7da9-435d-bfe8-5e9a22d20544.25" lane="402246190#1_0" startPos="11.95" endPos="24.95" friendlyPos="true" name="PLAZA DEL ARTE"/>
+    <busStop id="8a5395ca-7da9-435d-bfe8-5e9a22d20544.26" lane="400084631#2_0" startPos="48.02" endPos="61.02" friendlyPos="true" name="AMERICAS"/>
+    <busStop id="8a5395ca-7da9-435d-bfe8-5e9a22d20544.27" lane="402219375#0_0" startPos="33.12" endPos="46.12" friendlyPos="true" name="AVENIDA DE LAS AMERICAS"/>
+    <busStop id="8a5395ca-7da9-435d-bfe8-5e9a22d20544.28" lane="252225574#0_0" startPos="26.14" endPos="39.14" friendlyPos="true" name="AV. DE LAS AMERICAS Y ALFONSO ANDRADE"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.1" lane="40668072#3_0" startPos="49.64" endPos="62.64" friendlyPos="true" name="EL PUNTO"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.2" lane="548284675#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="AVENIDA DE LAS AMERICAS Y ALFONSO ANDRADE"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.3" lane="218811762#2_0" startPos="21.31" endPos="34.31" friendlyPos="true" name="ESCUELA URUGUAY"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.4" lane="218811762#6_0" startPos="47.87" endPos="60.87" friendlyPos="true" name="PARQUE PLAZA DEL ARTE"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.5" lane="400084632#2_0" startPos="32.92" endPos="45.92" friendlyPos="true" name="PIO BRAVO"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.14" lane="48552544#3_0" startPos="12.32" endPos="25.32" friendlyPos="true" name="UNIVERSIDAD POLITECNICA SALESIANA"/>
+    <busStop id="c5aa3540-f91f-4f90-9ff2-7ef433c0bf1f.28" lane="42453894_0" startPos="15.84" endPos="28.84" friendlyPos="true" name="TALLER LA POTENCIA"/>
+    <busStop id="352371cb-2b33-4631-a437-d3713886a182.4" lane="559892448#6_0" startPos="21.31" endPos="34.31" friendlyPos="true" name="EMBOTELLADORA AZUAYA"/>
+    <busStop id="352371cb-2b33-4631-a437-d3713886a182.5" lane="559892448#21_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="BAJADA A MILCHICHIG"/>
+    <busStop id="6b06b2cc-0e5b-4ab0-85ec-da8fc07358a4.8" lane="542434381#1_0" startPos="1.99" endPos="14.99" friendlyPos="true" name="GIL RAMIREZ DAVALOS"/>
+    <busStop id="6b06b2cc-0e5b-4ab0-85ec-da8fc07358a4.9" lane="542417184_0" startPos="19.31" endPos="32.31" friendlyPos="true" name="AV. GIL RAMIREZ DAVALOS Y ELIA LIUT"/>
+    <busStop id="4764589a-7ce1-4690-a6b7-371788d9c260.14" lane="480936970#3_0" startPos="21.42" endPos="34.42" friendlyPos="true" name="COLEGIO CIUDAD DE CUENCA"/>
+    <busStop id="4764589a-7ce1-4690-a6b7-371788d9c260.15" lane="480936970#6_0" startPos="50.90" endPos="63.90" friendlyPos="true" name="HOTEL ORO VERDE"/>
+    <busStop id="4764589a-7ce1-4690-a6b7-371788d9c260.16" lane="480936970#9_0" startPos="69.23" endPos="82.23" friendlyPos="true" name="ORDONEZ LASSO Y LOS CEDROS"/>
+    <busStop id="4764589a-7ce1-4690-a6b7-371788d9c260.17" lane="533787303#0_0" startPos="1.15" endPos="14.15" friendlyPos="true" name="ESTACION DE SERVICIOS"/>
+    <busStop id="4764589a-7ce1-4690-a6b7-371788d9c260.18" lane="45426146_0" startPos="12.62" endPos="25.62" friendlyPos="true" name="UNIDAD NACIONAL Y 3 DE NOVIEMBRE"/>
+    <busStop id="eeffdbac-c8ba-4178-92c0-24cccc0b1f54.31" lane="-40668082#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="UNIDAD NACIONAL"/>
+    <busStop id="eeffdbac-c8ba-4178-92c0-24cccc0b1f54.32" lane="-40668082#0_0" startPos="8.99" endPos="21.99" friendlyPos="true" name="ORDONEZ LASSO"/>
+    <busStop id="eeffdbac-c8ba-4178-92c0-24cccc0b1f54.34" lane="40668068#1_0" startPos="16.21" endPos="29.21" friendlyPos="true" name="ORDONEZ LASSO Y LOS CEDROS"/>
+    <busStop id="eeffdbac-c8ba-4178-92c0-24cccc0b1f54.35" lane="40668068#2_0" startPos="63.37" endPos="76.37" friendlyPos="true" name="HOTEL ORO VERDE"/>
+    <busStop id="eeffdbac-c8ba-4178-92c0-24cccc0b1f54.36" lane="40668068#7_0" startPos="36.92" endPos="49.92" friendlyPos="true" name="COLEGIO CUIDAD DE CUENCA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.8" lane="82898748#5_0" startPos="207.25" endPos="220.25" friendlyPos="true" name="QUINTA CHICA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.9" lane="42207968-AddedOffRampEdge_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="HOSPITAL DEL RIO"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.10" lane="305890912#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO LATINOAMERICANO"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.11" lane="552457157_0" startPos="43.25" endPos="56.25" friendlyPos="true" name="IESS"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.12" lane="400354140_0" startPos="657.28" endPos="670.28" friendlyPos="true" name="CAMPO SANTO"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.13" lane="552440203#1_0" startPos="24.95" endPos="37.95" friendlyPos="true" name="EMPRESA ELECTRICA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.14" lane="48503910#0-AddedOnRampEdge_0" startPos="0.51" endPos="13.51" friendlyPos="true" name="COLEGIO GARAICOA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.15" lane="552457156_0" startPos="124.17" endPos="137.17" friendlyPos="true" name="AUTOPISTA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.16" lane="362156554#0_0" startPos="5.57" endPos="18.57" friendlyPos="true" name="UNIVERSIDAD DEL AZUAY"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.19" lane="42201260#5_0" startPos="85.98" endPos="98.98" friendlyPos="true" name="MALL DEL RIO"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.20" lane="338566779-AddedOnRampEdge_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="EDIFICIOS VISTA LINDA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.23" lane="59545685#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="FRUTERIA"/>
+    <busStop id="0a2cee95-5817-47f1-8ba5-dec02f0cda35.24" lane="-325082035#4_0" startPos="145.33" endPos="158.33" friendlyPos="true" name="PLATAFORMA NARANCAY"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.0" lane="325082035#4_0" startPos="4.25" endPos="17.25" friendlyPos="true" name="PLATAFORMA NARANCAY"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.2" lane="305207980#2_0" startPos="16.80" endPos="29.80" friendlyPos="true" name="PLATAFORMA NARANCAY"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.8" lane="42201259#0_0" startPos="28.90" endPos="41.90" friendlyPos="true" name="REDONDEL DE TURI"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.9" lane="42201259#9_0" startPos="115.73" endPos="128.73" friendlyPos="true" name="UNIVERSIDAD DEL AZUAY"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.10" lane="42201267#0_0" startPos="6.21" endPos="19.21" friendlyPos="true" name="AUTOPISTA"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.11" lane="42201267#4-AddedOnRampEdge_0" startPos="26.08" endPos="39.08" friendlyPos="true" name="COLEGIO GARAICOA"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.12" lane="730419288#1-AddedOnRampEdge_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMPOS SANTO"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.13" lane="47198324#0_0" startPos="37.51" endPos="50.51" friendlyPos="true" name="IESS"/>
+    <busStop id="35494e12-b240-4f28-9af4-6531b1adf75d.14" lane="40972441#1_0" startPos="12.21" endPos="25.21" friendlyPos="true" name="HOSPITAL DEL RIO"/>
+    <busStop id="623d801c-294c-41c9-8de6-6d5f952f8422.0" lane="50562506#5_0" startPos="5.99" endPos="18.99" friendlyPos="true" name="MARIANO GODOY"/>
+    <busStop id="623d801c-294c-41c9-8de6-6d5f952f8422.40" lane="-86222262#3_0" startPos="44.31" endPos="57.31" friendlyPos="true" name="BUERAN Y HUANCAVILCA"/>
+    <busStop id="623d801c-294c-41c9-8de6-6d5f952f8422.41" lane="-86222262#0_0" startPos="22.71" endPos="35.71" friendlyPos="true" name="BUERAN Y CONDOR"/>
+    <busStop id="623d801c-294c-41c9-8de6-6d5f952f8422.42" lane="405149366#12_0" startPos="69.54" endPos="82.54" friendlyPos="true" name="PARADA FINAL"/>
+    <busStop id="f613630e-01d4-40b6-bb73-791a97e10702.0" lane="-405149366#12_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PARADA DE TOTORACOCHA"/>
+    <busStop id="f613630e-01d4-40b6-bb73-791a97e10702.1" lane="-405149366#6_0" startPos="27.30" endPos="40.30" friendlyPos="true" name="CONDOR Y BUERAN"/>
+    <busStop id="f613630e-01d4-40b6-bb73-791a97e10702.2" lane="86222262#3_0" startPos="7.89" endPos="20.89" friendlyPos="true" name="BUERAN Y HUANCAVILCA"/>
+    <busStop id="f613630e-01d4-40b6-bb73-791a97e10702.45" lane="310114805#9_0" startPos="18.66" endPos="31.65" friendlyPos="true" name="MARIANO GODOY"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.0" lane="-534903500#19_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="IGLESIA SAN JOSE DE BALZAY"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.1" lane="-534903500#15_0" startPos="51.09" endPos="64.08" friendlyPos="true" name="ENTRADA A SAN JOSE DE BALZAY(C)"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.2" lane="-534903500#9_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A SAN JOSE DE BALZAY(B)"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.3" lane="-534903500#2_0" startPos="22.27" endPos="35.27" friendlyPos="true" name="ENTRADA A SAN JOSE DE BALZAY(A)"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.21" lane="47198301#3_0" startPos="4.06" endPos="17.06" friendlyPos="true" name="JUAN JOSE FLORES Y JIJON CAAMANO"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.22" lane="84719901#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMILO PONCE Y PASEO DE LOS CANARIS"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.23" lane="400334460#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMILO PONCE Y JORGE CARRERA ANDRADE"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.27" lane="335232730#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="MAX UHLE Y JORGE CARRERA ANDRADE"/>
+    <busStop id="2cda8327-d395-4264-bc1d-1944c347528b.28" lane="1127608011#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="PASEO DE LOS CANARIS Y MAX UHLE"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.10" lane="-336161682#1_0" startPos="1.89" endPos="14.89" friendlyPos="true" name="CAMILO PONCE Y PUMAPUNGO"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.11" lane="-400334460#1_0" startPos="147.83" endPos="160.83" friendlyPos="true" name="CAMILO PONCE Y MEDARDO ANGEL SILVA"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.13" lane="-608473624#2_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="JUAN JOSE FLORES Y PASEO DE LOS CANARIS"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.14" lane="49577046#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="Y JUAN JOSE FLORES Y JIJON CAAMANO"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.15" lane="48909342#2_0" startPos="29.60" endPos="42.60" friendlyPos="true" name="REPUBLICA Y GUAPONDELIG"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.16" lane="45394212#4_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="REPUBLICA Y OCTAVIO DIAZ"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.26" lane="42207928#4_0" startPos="75.85" endPos="88.85" friendlyPos="true" name="CORAZON DE JESUS"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.30" lane="61429336#3_0" startPos="116.20" endPos="129.20" friendlyPos="true" name="PUERTAS DEL SOL"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.33" lane="143471360#9_0" startPos="14.16" endPos="27.16" friendlyPos="true" name="ENTRADA A SAN JOSE DE BALZAY(A)"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.34" lane="534903500#5_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A SAN JOSE DE BLAZAY(B)"/>
+    <busStop id="edcf7bb2-6d4e-449f-b3b5-0e91048a648b.35" lane="534903500#15_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="ENTRADA A SAN JOSE DE BALZAY(C)"/>
+    <busStop id="6e620ff8-e368-4b14-bd41-66f95fc5db42.5" lane="893216953#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="GASOLINERA DON BOSCO"/>
+    <busStop id="6e620ff8-e368-4b14-bd41-66f95fc5db42.6" lane="61390458#0_0" startPos="49.82" endPos="62.82" friendlyPos="true" name="AV.CRISTOBAL COLON"/>
+    <busStop id="6e620ff8-e368-4b14-bd41-66f95fc5db42.7" lane="61390458#3_0" startPos="39.32" endPos="52.32" friendlyPos="true" name="REDONDEL"/>
+    <busStop id="6e620ff8-e368-4b14-bd41-66f95fc5db42.8" lane="542542880#0_0" startPos="40.22" endPos="53.22" friendlyPos="true" name="LOPE DE VEGA"/>
+    <busStop id="6e620ff8-e368-4b14-bd41-66f95fc5db42.9" lane="542542872#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CENTRO EDUCATIVO LOS ANDES"/>
+    <busStop id="6e620ff8-e368-4b14-bd41-66f95fc5db42.10" lane="46227733#1_0" startPos="157.19" endPos="170.19" friendlyPos="true" name="URBANIZACION LA PIEDRA"/>
+    <busStop id="beb0edc1-d37f-4ce8-9ae8-840a483cca91.33" lane="304930424#0_0" startPos="60.03" endPos="72.69" friendlyPos="true" name="URBANIZACION LA PIEDRA"/>
+    <busStop id="beb0edc1-d37f-4ce8-9ae8-840a483cca91.34" lane="552616903_0" startPos="74.43" endPos="87.43" friendlyPos="true" name="CENTRO EDUCATIVO LOS ANDES"/>
+    <busStop id="beb0edc1-d37f-4ce8-9ae8-840a483cca91.35" lane="542542882#2_0" startPos="49.99" endPos="62.99" friendlyPos="true" name="AV.12 DE OCTUBRE"/>
+    <busStop id="beb0edc1-d37f-4ce8-9ae8-840a483cca91.36" lane="50557150#1_0" startPos="44.84" endPos="57.84" friendlyPos="true" name="AV.CRISTOBAL COLON"/>
+    <busStop id="beb0edc1-d37f-4ce8-9ae8-840a483cca91.37" lane="893216950#0_0" startPos="23.65" endPos="36.61" friendlyPos="true" name="GASOLINERA DON BOSCO"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.22" lane="552624531#0_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="SUPERMAXI"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.23" lane="304027275#1_0" startPos="26.92" endPos="39.92" friendlyPos="true" name="CAMINO DEL TEJAR Y DEL MIRTO"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.30" lane="62105998#4_0" startPos="24.46" endPos="37.46" friendlyPos="true" name="FABRICA RIALTO"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.31" lane="62105998#9_0" startPos="10.65" endPos="23.65" friendlyPos="true" name="CAPILLA"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.32" lane="47198317#2_0" startPos="96.62" endPos="109.62" friendlyPos="true" name="LA Y"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.33" lane="51232137#1_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="CAMINO VECINAL"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.34" lane="51232137#3_0" startPos="1.73" endPos="14.73" friendlyPos="true" name="ENTRADA A EL BOSQUE(1)"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.37" lane="510825234#1_0" startPos="197.13" endPos="210.13" friendlyPos="true" name="COOPERA"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.38" lane="510825234#8_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="COLEGIO JAVERIANO"/>
+    <busStop id="4dec8258-6e94-45de-bfa4-2e8ea87aa977.39" lane="227065900#13_0" startPos="0.00" endPos="13.00" friendlyPos="true" name="Y DE AUTOPISTA"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.1" lane="227065900#15_0" startPos="89.84" endPos="102.83" friendlyPos="true" name="COLEGIO JAVERIANO"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.2" lane="227065900#20_0" startPos="266.79" endPos="279.79" friendlyPos="true" name="COOPERA"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.7" lane="-51232137#3_0" startPos="6.36" endPos="19.36" friendlyPos="true" name="SECTOR EL BOSQUE"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.8" lane="-51232137#1_0" startPos="150.02" endPos="163.02" friendlyPos="true" name="CAMINO VECINAL"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.9" lane="-47198317#2_0" startPos="48.88" endPos="61.88" friendlyPos="true" name="LA Y"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.10" lane="-62105998#9_0" startPos="50.88" endPos="63.87" friendlyPos="true" name="CAPILLA"/>
+    <busStop id="969467ca-13e7-4eb9-9e2c-018a16bbbaa2.11" lane="-62105998#4_0" startPos="47.82" endPos="60.82" friendlyPos="true" name="FABRICA RIALTO"/>
+</additional>
