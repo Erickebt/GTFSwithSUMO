@@ -82,8 +82,9 @@ En donde se deben agregar por lo menos un servicio, en la primera columna va el 
 
 Se tiene que el día 1 de enero del 2022 como es día festivo los buses trabajan en horario de fin de semana por lo que se excluye el horario normal y se agrega el horario de l sábado como ejemplo:
 
-L-V,20220101,2                   excluyendo horario normal
-Sabado,20220101,1            añade horario de un día sábado
+L-V,20220101,2:excluyendo horario normal
+
+Sabado,20220101,1:añade horario de un día sábado
 
 
 Una vez se completo con los archivos necesarios para convertir los archivos GTFS se procede con el uso de otro codigo que contiene SUMO el cual es gtfs2pt.py
@@ -107,7 +108,7 @@ Estos dos archivos contienen toda la informacion necesaria de lo que consta en e
 
 Para esta seccion es bastante ,as simple ya que a la par de los anteriores solo usamos el codigo que se encuentra en uno de los archivos de SUMO mismo el archivo python es randomtrips.py
 ````
-python3 /opt/sumo/tools/randomTrips.py -v -b 0 -e TIEMPO -p VAR -n osm.net.xml -r randomvehicles.rou.xml`
+python3 /opt/sumo/tools/randomTrips.py -v -b 0 -e TIEMPO -p VAR -n osm.net.xml -r randomvehicles.rou.xml
 ````
 En TIEMPO se coloca la cantidad de tiempo en segundos que se va ha generar el tráfico. El parámetro VAR se calcula como VAR=TIEMPO/Num_Vehiculos.
 
