@@ -98,9 +98,9 @@ cuando iniciamos con la ejecucion del codigo nos apareceran la siguiente informa
 
 La cual como podemos observar nos da un warning donde no encuentra el modulo tracermapo, pero este buscara otros modulos para realizar la ejecucion del codigo por lo que se tiene que ser paciente, una vez el codigo se ejecuto de manera correcta se generan 2 archivos aprte del v_types los cuales son:
 
-[Descargar stops](data/gtfs_pt_stops.add.xml)
+[Descargar archivo gtfs_pt_stops.add.xml](data/gtfs_pt_stops.add.xml)
 
-[Descargar vehicles](data/gtfs_pt_vehicles.add.xml)
+[Descargar archivo gtfs_pt_vehicles.add.xml](data/gtfs_pt_vehicles.add.xml)
 
 Estos dos archivos contienen toda la informacion necesaria de lo que consta en el archivo GTFS se tiene que tener en cuenta que estos 2 archivos son realizados con cierto mapa de la zona de cuenca ya que si se necesita que esten absolutamente todos los buses de la ciudad de cuenca el mapa que se tiene que exportar debe ser mucho mas grande ademas de constar con todos los lugares en los que los buses lleguen.
 
@@ -113,7 +113,7 @@ python3 /opt/sumo/tools/randomTrips.py -v -b 0 -e TIEMPO -p VAR -n osm.net.xml -
 En TIEMPO se coloca la cantidad de tiempo en segundos que se va ha generar el tráfico. El parámetro VAR se calcula como VAR=TIEMPO/Num_Vehiculos.
 
 -	El tiempo  que se demore en generar el tráfico dependerá de los vehículos que se quiera simular, finalizara creando el archivo randomvehicles.rou.xml.
--	Ahora los archivos se deben colocar en l archivo sumo.conf como se muestra en el mismo archivo del repositorio el cual es [sumo conf](data/osm.sumocfg).
+-	Ahora los archivos se deben colocar en l archivo sumo.conf como se muestra en el mismo archivo del repositorio el cual es [osm.sumocfg](data/osm.sumocfg).
 
 Tambien al mismo archivo mencionado se agregaron campos de output para al final de la simulacion recolectar los datos del CO2 de las rutas del tiempo y de las distancias que recorre cada autobus.
 
