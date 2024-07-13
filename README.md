@@ -125,5 +125,5 @@ En la imagen se muestra la simulacion adecuada del codigo pero en caso de querer
 sumo -v -c osm.sumocfg
 `````
 
-al finalizar nos dara los outputs solicitados ademas de lo que seria un recuento de los automoviles de la simulacion entre otros.
+Al finalizar nos dara los outputs solicitados ademas de lo que seria un recuento de los automoviles de la simulación entre otros archivos necesarios para un posterior análisis.
 
